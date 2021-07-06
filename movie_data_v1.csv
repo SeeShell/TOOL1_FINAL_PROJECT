@@ -1,0 +1,1456 @@
+,weekday,day_number,top_10_gross_total,releases,top_release,top_gross,month,day,year,event
+0,Sunday,1,56752913,52,Rogue One: A Star Wars Story,16751857,Jan,1 ,2017,New Year's Day
+1,Monday,2,54065844,54,Rogue One: A Star Wars Story,15913674,Jan,2 ,2017,
+2,Tuesday,3,24799823,48,Rogue One: A Star Wars Story,6268921,Jan,3 ,2017,
+3,Wednesday,4,16695754,49,Rogue One: A Star Wars Story,4237535,Jan,4 ,2017,
+4,Thursday,5,14928109,50,Rogue One: A Star Wars Story,3893517,Jan,5 ,2017,
+5,Friday,6,35952754,46,Hidden Figures,7621334,Jan,6 ,2017,
+6,Saturday,7,50026406,44,Rogue One: A Star Wars Story,9558458,Jan,7 ,2017,
+7,Sunday,8,34512473,45,Rogue One: A Star Wars Story,6420138,Jan,8 ,2017,
+8,Monday,9,10419513,46,Hidden Figures,1857416,Jan,9 ,2017,
+9,Tuesday,10,15267153,44,Hidden Figures,2877410,Jan,10 ,2017,
+10,Wednesday,11,10148500,44,Hidden Figures,1915107,Jan,11 ,2017,
+11,Thursday,12,9704955,44,Hidden Figures,1978932,Jan,12 ,2017,
+12,Friday,13,34673108,45,Hidden Figures,5498032,Jan,13 ,2017,
+13,Saturday,14,48116624,46,Hidden Figures,8478941,Jan,14 ,2017,
+14,Sunday,15,36732315,43,Hidden Figures,6876974,Jan,15 ,2017,
+15,Monday,16,29393316,60,Hidden Figures,6652892,Jan,16 ,2017,MLK Day
+16,Tuesday,17,11266436,45,Hidden Figures,2503162,Jan,17 ,2017,
+17,Wednesday,18,7636987,42,Hidden Figures,1773662,Jan,18 ,2017,
+18,Thursday,19,7116692,45,Hidden Figures,1821988,Jan,19 ,2017,
+19,Friday,20,37332148,50,Split,14626670,Jan,20 ,2017,
+20,Saturday,21,53691879,48,Split,16506700,Jan,21 ,2017,
+21,Sunday,22,29514638,49,Split,8877605,Jan,22 ,2017,
+22,Monday,23,8834695,48,Split,2928660,Jan,23 ,2017,
+23,Tuesday,24,12402342,46,Split,3763480,Jan,24 ,2017,
+24,Wednesday,25,8680735,47,Split,2488070,Jan,25 ,2017,
+25,Thursday,26,8515965,48,Split,2538905,Jan,26 ,2017,
+26,Friday,27,32210280,46,Split,7903985,Jan,27 ,2017,
+27,Saturday,28,48763575,48,Split,11431150,Jan,28 ,2017,
+28,Sunday,29,30676940,47,Split,6320305,Jan,29 ,2017,
+29,Monday,30,7332595,46,Split,1612520,Jan,30 ,2017,
+30,Tuesday,31,10194153,44,Split,2129755,Jan,31 ,2017,
+31,Wednesday,32,6908544,45,Split,1477160,Feb,1 ,2017,
+32,Thursday,33,6901698,46,Split,1511500,Feb,2 ,2017,
+33,Friday,34,24572660,49,Rings,5631820,Feb,3 ,2017,
+34,Saturday,35,37863651,50,Split,7505985,Feb,4 ,2017,
+35,Sunday,36,13226004,50,A Dog's Purpose,2172390,Feb,5 ,2017,
+36,Monday,37,5653628,49,Split,1139540,Feb,6 ,2017,
+37,Tuesday,38,7792652,50,Split,1431785,Feb,7 ,2017,
+38,Wednesday,39,5405455,49,Split,992070,Feb,8 ,2017,
+39,Thursday,40,4738816,48,Hidden Figures,910127,Feb,9 ,2017,
+40,Friday,41,58041735,46,Fifty Shades Darker,21444970,Feb,10 ,2017,
+41,Saturday,42,69472249,48,The Lego Batman Movie,23000124,Feb,11 ,2017,
+42,Sunday,43,43741371,46,The Lego Batman Movie,15510086,Feb,12 ,2017,
+43,Monday,44,12682522,49,Fifty Shades Darker,3903815,Feb,13 ,2017,
+44,Tuesday,45,29546806,45,Fifty Shades Darker,11002245,Feb,14 ,2017,
+45,Wednesday,46,11216653,47,Fifty Shades Darker,3799735,Feb,15 ,2017,
+46,Thursday,47,10709550,49,Fifty Shades Darker,3383410,Feb,16 ,2017,
+47,Friday,48,35745240,47,The Lego Batman Movie,7357501,Feb,17 ,2017,
+48,Saturday,49,53117308,49,The Lego Batman Movie,14062395,Feb,18 ,2017,
+49,Sunday,50,40349576,48,The Lego Batman Movie,11235218,Feb,19 ,2017,
+50,Monday,51,27089643,60,The Lego Batman Movie,10089017,Feb,20 ,2017,Presidents' Day
+51,Tuesday,52,13077049,48,The Lego Batman Movie,2956364,Feb,21 ,2017,
+52,Wednesday,53,10221239,49,The Lego Batman Movie,1946307,Feb,22 ,2017,
+53,Thursday,54,10103376,49,Is Genesis History?,1796182,Feb,23 ,2017,
+54,Friday,55,29289886,50,Get Out,10834915,Feb,24 ,2017,
+55,Saturday,56,44911199,51,Get Out,12676825,Feb,25 ,2017,
+56,Sunday,57,29804615,51,Get Out,9865320,Feb,26 ,2017,
+57,Monday,58,9189390,52,Get Out,4123445,Feb,27 ,2017,
+58,Tuesday,59,12001616,53,Get Out,4933300,Feb,28 ,2017,
+59,Wednesday,60,8660889,53,Get Out,3793570,Mar,1 ,2017,
+60,Thursday,61,7993125,53,Get Out,3616265,Mar,2 ,2017,
+61,Friday,62,55831609,57,Logan,33005352,Mar,3 ,2017,
+62,Saturday,63,64907463,58,Logan,31315514,Mar,4 ,2017,
+63,Sunday,64,47276817,58,Logan,24091050,Mar,5 ,2017,
+64,Monday,65,14046674,60,Logan,7204203,Mar,6 ,2017,
+65,Tuesday,66,17605306,59,Logan,8603782,Mar,7 ,2017,
+66,Wednesday,67,11912964,59,Logan,5646328,Mar,8 ,2017,
+67,Thursday,68,11977464,62,Logan,4940504,Mar,9 ,2017,
+68,Friday,69,44281085,53,Kong: Skull Island,20143072,Mar,10 ,2017,
+69,Saturday,70,62105056,53,Kong: Skull Island,23880293,Mar,11 ,2017,
+70,Sunday,71,42976704,52,Kong: Skull Island,17002107,Mar,12 ,2017,
+71,Monday,72,14439885,51,Kong: Skull Island,5348046,Mar,13 ,2017,
+72,Tuesday,73,17057504,50,Kong: Skull Island,6404143,Mar,14 ,2017,
+73,Wednesday,74,13283935,52,Kong: Skull Island,4619039,Mar,15 ,2017,
+74,Thursday,75,11563909,52,Kong: Skull Island,3878594,Mar,16 ,2017,
+75,Friday,76,84864913,48,Beauty and the Beast,63777443,Mar,17 ,2017,
+76,Saturday,77,96604297,48,Beauty and the Beast,62706808,Mar,18 ,2017,
+77,Sunday,78,70756066,47,Beauty and the Beast,48266365,Mar,19 ,2017,
+78,Monday,79,20375732,47,Beauty and the Beast,13531723,Mar,20 ,2017,
+79,Tuesday,80,28528078,47,Beauty and the Beast,17878785,Mar,21 ,2017,
+80,Wednesday,81,18241552,48,Beauty and the Beast,11538802,Mar,22 ,2017,
+81,Thursday,82,16944792,47,Beauty and the Beast,10905961,Mar,23 ,2017,
+82,Friday,83,56471238,51,Beauty and the Beast,23602097,Mar,24 ,2017,
+83,Saturday,84,78876604,52,Beauty and the Beast,38292423,Mar,25 ,2017,
+84,Sunday,85,57385440,52,Beauty and the Beast,28532197,Mar,26 ,2017,
+85,Monday,86,15395446,50,Beauty and the Beast,7061470,Mar,27 ,2017,
+86,Tuesday,87,20499177,49,Beauty and the Beast,9473259,Mar,28 ,2017,
+87,Wednesday,88,13622743,51,Beauty and the Beast,6295792,Mar,29 ,2017,
+88,Thursday,89,12723692,50,Beauty and the Beast,6053717,Mar,30 ,2017,
+89,Friday,90,49822179,50,The Boss Baby,15621148,Mar,31 ,2017,
+90,Saturday,91,66777262,50,The Boss Baby,20115863,Apr,1 ,2017,
+91,Sunday,92,45051082,48,The Boss Baby,14461891,Apr,2 ,2017,
+92,Monday,93,11330326,49,Beauty and the Beast,3167150,Apr,3 ,2017,
+93,Tuesday,94,16432321,47,Beauty and the Beast,4569209,Apr,4 ,2017,
+94,Wednesday,95,10660937,47,Beauty and the Beast,3053839,Apr,5 ,2017,
+95,Thursday,96,10679246,48,Beauty and the Beast,3166251,Apr,6 ,2017,
+96,Friday,97,31271836,56,The Boss Baby,6928554,Apr,7 ,2017,
+97,Saturday,98,46160313,56,The Boss Baby,11831324,Apr,8 ,2017,
+98,Sunday,99,28855765,57,The Boss Baby,7603610,Apr,9 ,2017,
+99,Monday,100,9341538,52,The Boss Baby,2180761,Apr,10 ,2017,
+100,Tuesday,101,13997974,51,The Boss Baby,3387051,Apr,11 ,2017,
+101,Wednesday,102,10497612,54,The Boss Baby,2704289,Apr,12 ,2017,
+102,Thursday,103,11125859,56,The Boss Baby,3072323,Apr,13 ,2017,
+103,Friday,104,67269700,50,The Fate of the Furious,45695015,Apr,14 ,2017,
+104,Saturday,105,52838894,50,The Fate of the Furious,31543625,Apr,15 ,2017,
+105,Sunday,106,35774114,50,The Fate of the Furious,21548065,Apr,16 ,2017,Easter Sunday
+106,Monday,107,17390287,51,The Fate of the Furious,8524260,Apr,17 ,2017,
+107,Tuesday,108,15717855,51,The Fate of the Furious,8150190,Apr,18 ,2017,
+108,Wednesday,109,10551449,52,The Fate of the Furious,4891515,Apr,19 ,2017,
+109,Thursday,110,10009388,52,The Fate of the Furious,4543550,Apr,20 ,2017,
+110,Friday,111,26130366,54,The Fate of the Furious,10984225,Apr,21 ,2017,
+111,Saturday,112,40114283,55,The Fate of the Furious,16942100,Apr,22 ,2017,
+112,Sunday,113,24681391,55,The Fate of the Furious,10482090,Apr,23 ,2017,
+113,Monday,114,6032776,55,The Fate of the Furious,2462540,Apr,24 ,2017,
+114,Tuesday,115,9605661,53,The Fate of the Furious,3512405,Apr,25 ,2017,
+115,Wednesday,116,5712587,56,The Fate of the Furious,2111370,Apr,26 ,2017,
+116,Thursday,117,5337007,54,The Fate of the Furious,1940625,Apr,27 ,2017,
+117,Friday,118,23797287,54,The Fate of the Furious,5144730,Apr,28 ,2017,
+118,Saturday,119,33771288,55,The Fate of the Furious,8983250,Apr,29 ,2017,
+119,Sunday,120,23307231,55,The Fate of the Furious,5808560,Apr,30 ,2017,
+120,Monday,121,5275991,50,The Fate of the Furious,1340125,May,1 ,2017,
+121,Tuesday,122,8213580,52,The Fate of the Furious,1869080,May,2 ,2017,
+122,Wednesday,123,4794901,51,The Fate of the Furious,1168220,May,3 ,2017,
+123,Thursday,124,4097304,51,The Fate of the Furious,961990,May,4 ,2017,
+124,Friday,125,65804066,52,Guardians of the Galaxy Vol. 2,56078520,May,5 ,2017,
+125,Saturday,126,68016275,53,Guardians of the Galaxy Vol. 2,51304539,May,6 ,2017,
+126,Sunday,127,50535786,52,Guardians of the Galaxy Vol. 2,39127045,May,7 ,2017,
+127,Monday,128,12477324,51,Guardians of the Galaxy Vol. 2,9862655,May,8 ,2017,
+128,Tuesday,129,16278298,51,Guardians of the Galaxy Vol. 2,12097479,May,9 ,2017,
+129,Wednesday,130,10367390,52,Guardians of the Galaxy Vol. 2,7527728,May,10 ,2017,
+130,Thursday,131,9631746,51,Guardians of the Galaxy Vol. 2,7159453,May,11 ,2017,
+131,Friday,132,32745593,54,Guardians of the Galaxy Vol. 2,16490524,May,12 ,2017,
+132,Saturday,133,49715085,53,Guardians of the Galaxy Vol. 2,27879884,May,13 ,2017,
+133,Sunday,134,42099797,52,Guardians of the Galaxy Vol. 2,20893084,May,14 ,2017,
+134,Monday,135,9016237,51,Guardians of the Galaxy Vol. 2,4701588,May,15 ,2017,
+135,Tuesday,136,11810459,51,Guardians of the Galaxy Vol. 2,5946795,May,16 ,2017,
+136,Wednesday,137,7748769,50,Guardians of the Galaxy Vol. 2,3971856,May,17 ,2017,
+137,Thursday,138,7047592,53,Guardians of the Galaxy Vol. 2,3696324,May,18 ,2017,
+138,Friday,139,37620803,54,Alien: Covenant,15301274,May,19 ,2017,
+139,Saturday,140,45389134,54,Guardians of the Galaxy Vol. 2,14951137,May,20 ,2017,
+140,Sunday,141,32321750,54,Guardians of the Galaxy Vol. 2,10985538,May,21 ,2017,
+141,Monday,142,11276622,54,Guardians of the Galaxy Vol. 2,3597323,May,22 ,2017,
+142,Tuesday,143,13125040,55,Guardians of the Galaxy Vol. 2,3388947,May,23 ,2017,
+143,Wednesday,144,8130318,54,Guardians of the Galaxy Vol. 2,2534650,May,24 ,2017,
+144,Thursday,145,12018919,56,Baywatch,4606514,May,25 ,2017,
+145,Friday,146,43778702,44,Pirates of the Caribbean: Dead Men Tell No Tales,23567874,May,26 ,2017,
+146,Saturday,147,46535890,44,Pirates of the Caribbean: Dead Men Tell No Tales,20335475,May,27 ,2017,
+147,Sunday,148,43677507,45,Pirates of the Caribbean: Dead Men Tell No Tales,19079904,May,28 ,2017,
+148,Monday,149,35842252,62,Pirates of the Caribbean: Dead Men Tell No Tales,15493514,May,29 ,2017,Memorial Day
+149,Tuesday,150,15683356,45,Pirates of the Caribbean: Dead Men Tell No Tales,6846183,May,30 ,2017,
+150,Wednesday,151,10544990,45,Pirates of the Caribbean: Dead Men Tell No Tales,4250754,May,31 ,2017,
+151,Thursday,152,8948184,45,Pirates of the Caribbean: Dead Men Tell No Tales,3435067,Jun,1 ,2017,
+152,Friday,153,61290814,47,Wonder Woman,38247254,Jun,2 ,2017,
+153,Saturday,154,65529573,48,Wonder Woman,35253398,Jun,3 ,2017,
+154,Sunday,155,52201996,47,Wonder Woman,29750819,Jun,4 ,2017,
+155,Monday,156,20034068,46,Wonder Woman,11757063,Jun,5 ,2017,
+156,Tuesday,157,25551059,47,Wonder Woman,14342175,Jun,6 ,2017,
+157,Wednesday,158,16575845,46,Wonder Woman,9326011,Jun,7 ,2017,
+158,Thursday,159,16498506,46,Wonder Woman,9145783,Jun,8 ,2017,
+159,Friday,160,42144780,51,Wonder Woman,15701461,Jun,9 ,2017,
+160,Saturday,161,54615031,51,Wonder Woman,24003287,Jun,10 ,2017,
+161,Sunday,162,40527728,51,Wonder Woman,18815924,Jun,11 ,2017,
+162,Monday,163,14348345,50,Wonder Woman,6266071,Jun,12 ,2017,
+163,Tuesday,164,20718990,50,Wonder Woman,8851388,Jun,13 ,2017,
+164,Wednesday,165,14580182,48,Wonder Woman,6344618,Jun,14 ,2017,
+165,Thursday,166,13163857,48,Wonder Woman,6021478,Jun,15 ,2017,
+166,Friday,167,61383551,49,Cars 3,19595034,Jun,16 ,2017,
+167,Saturday,168,62685655,49,Cars 3,18449946,Jun,17 ,2017,
+168,Sunday,169,55006576,51,Cars 3,15643700,Jun,18 ,2017,
+169,Monday,170,19425551,49,Cars 3,5481494,Jun,19 ,2017,
+170,Tuesday,171,22473793,50,Cars 3,6767823,Jun,20 ,2017,
+171,Wednesday,172,30303385,50,Transformers: The Last Knight,15658535,Jun,21 ,2017,
+172,Thursday,173,23128753,51,Transformers: The Last Knight,8136954,Jun,22 ,2017,
+173,Friday,174,40439473,49,Transformers: The Last Knight,13753004,Jun,23 ,2017,
+174,Saturday,175,51421153,48,Transformers: The Last Knight,17451280,Jun,24 ,2017,
+175,Sunday,176,38162647,48,Transformers: The Last Knight,13475789,Jun,25 ,2017,
+176,Monday,177,15487094,51,Transformers: The Last Knight,4718310,Jun,26 ,2017,
+177,Tuesday,178,19794057,52,Transformers: The Last Knight,5675124,Jun,27 ,2017,
+178,Wednesday,179,18340719,50,Baby Driver,5706745,Jun,28 ,2017,
+179,Thursday,180,14719860,49,Baby Driver,3322360,Jun,29 ,2017,
+180,Friday,181,54738724,51,Despicable Me 3,29005340,Jun,30 ,2017,
+181,Saturday,182,56245725,53,Despicable Me 3,24330080,Jul,1 ,2017,
+182,Sunday,183,46223092,53,Despicable Me 3,19098605,Jul,2 ,2017,
+183,Monday,184,33957858,53,Despicable Me 3,13857900,Jul,3 ,2017,
+184,Tuesday,185,31120342,51,Despicable Me 3,12728355,Jul,4 ,2017,Independence Day
+185,Wednesday,186,18849593,52,Despicable Me 3,7990315,Jul,5 ,2017,
+186,Thursday,187,17995626,51,Despicable Me 3,8180065,Jul,6 ,2017,
+187,Friday,188,76855426,52,Spider-Man: Homecoming,50780982,Jul,7 ,2017,
+188,Saturday,189,69358643,52,Spider-Man: Homecoming,37045244,Jul,8 ,2017,
+189,Sunday,190,52109277,52,Spider-Man: Homecoming,29201277,Jul,9 ,2017,
+190,Monday,191,22539162,52,Spider-Man: Homecoming,12201383,Jul,10 ,2017,
+191,Tuesday,192,29999465,53,Spider-Man: Homecoming,15053665,Jul,11 ,2017,
+192,Wednesday,193,20757284,53,Spider-Man: Homecoming,9902669,Jul,12 ,2017,
+193,Thursday,194,19091244,52,Spider-Man: Homecoming,8885094,Jul,13 ,2017,
+194,Friday,195,53793302,52,War for the Planet of the Apes,22111621,Jul,14 ,2017,
+195,Saturday,196,58930124,52,War for the Planet of the Apes,19293223,Jul,15 ,2017,
+196,Sunday,197,43345012,52,War for the Planet of the Apes,14858085,Jul,16 ,2017,
+197,Monday,198,18485190,51,War for the Planet of the Apes,5787356,Jul,17 ,2017,
+198,Tuesday,199,24928490,50,Spider-Man: Homecoming,7536245,Jul,18 ,2017,
+199,Wednesday,200,16873077,51,Spider-Man: Homecoming,4967279,Jul,19 ,2017,
+200,Thursday,201,15024104,50,Spider-Man: Homecoming,4466934,Jul,20 ,2017,
+201,Friday,202,59322863,53,Dunkirk,19736259,Jul,21 ,2017,
+202,Saturday,203,64880400,54,Dunkirk,17543645,Jul,22 ,2017,
+203,Sunday,204,48728223,53,Dunkirk,13233584,Jul,23 ,2017,
+204,Monday,205,22685232,51,Dunkirk,6444109,Jul,24 ,2017,
+205,Tuesday,206,27627263,53,Dunkirk,7383712,Jul,25 ,2017,
+206,Wednesday,207,18980147,51,Dunkirk,5171437,Jul,26 ,2017,
+207,Thursday,208,18775681,52,Dunkirk,5193474,Jul,27 ,2017,
+208,Friday,209,44616620,52,The Emoji Movie,10025217,Jul,28 ,2017,
+209,Saturday,210,53128844,53,Dunkirk,11182034,Jul,29 ,2017,
+210,Sunday,211,36341667,51,Dunkirk,7530839,Jul,30 ,2017,
+211,Monday,212,16129548,50,Dunkirk,3324258,Jul,31 ,2017,
+212,Tuesday,213,22429123,50,Dunkirk,4472370,Aug,1 ,2017,
+213,Wednesday,214,16438454,50,Dunkirk,3513238,Aug,2 ,2017,
+214,Thursday,215,15368993,50,Dunkirk,3328522,Aug,3 ,2017,
+215,Friday,216,35030846,52,The Dark Tower,7724436,Aug,4 ,2017,
+216,Saturday,217,41482785,52,Dunkirk,7210818,Aug,5 ,2017,
+217,Sunday,218,28926543,52,Dunkirk,4937427,Aug,6 ,2017,
+218,Monday,219,14950528,51,Dunkirk,2718391,Aug,7 ,2017,
+219,Tuesday,220,16975501,52,Dunkirk,2743180,Aug,8 ,2017,
+220,Wednesday,221,11138270,54,Dunkirk,1953774,Aug,9 ,2017,
+221,Thursday,222,9953638,52,Dunkirk,1801222,Aug,10 ,2017,
+222,Friday,223,33621206,55,Annabelle: Creation,15012427,Aug,11 ,2017,
+223,Saturday,224,37185315,54,Annabelle: Creation,11677885,Aug,12 ,2017,
+224,Sunday,225,24442510,55,Annabelle: Creation,8316092,Aug,13 ,2017,
+225,Monday,226,10745642,57,Annabelle: Creation,3622473,Aug,14 ,2017,
+226,Tuesday,227,15248720,58,Annabelle: Creation,4526776,Aug,15 ,2017,
+227,Wednesday,228,9653919,57,Annabelle: Creation,2845011,Aug,16 ,2017,
+228,Thursday,229,8815839,55,Annabelle: Creation,2543557,Aug,17 ,2017,
+229,Friday,230,25558624,56,The Hitman's Bodyguard,8039302,Aug,18 ,2017,
+230,Saturday,231,30375343,53,The Hitman's Bodyguard,7902414,Aug,19 ,2017,
+231,Sunday,232,19864922,52,The Hitman's Bodyguard,5442788,Aug,20 ,2017,
+232,Monday,233,7365690,54,The Hitman's Bodyguard,1953990,Aug,21 ,2017,
+233,Tuesday,234,11117164,52,The Hitman's Bodyguard,2849926,Aug,22 ,2017,
+234,Wednesday,235,7269364,53,The Hitman's Bodyguard,1727417,Aug,23 ,2017,
+235,Thursday,236,6651285,53,The Hitman's Bodyguard,1648167,Aug,24 ,2017,
+236,Friday,237,14655339,52,The Hitman's Bodyguard,3171861,Aug,25 ,2017,
+237,Saturday,238,19462155,54,The Hitman's Bodyguard,3890629,Aug,26 ,2017,
+238,Sunday,239,13728238,53,The Hitman's Bodyguard,3200129,Aug,27 ,2017,
+239,Monday,240,5026080,53,The Hitman's Bodyguard,1132289,Aug,28 ,2017,
+240,Tuesday,241,7487116,52,The Hitman's Bodyguard,1672296,Aug,29 ,2017,
+241,Wednesday,242,4742783,53,The Hitman's Bodyguard,1047510,Aug,30 ,2017,
+242,Thursday,243,4643478,53,The Hitman's Bodyguard,1015496,Aug,31 ,2017,
+243,Friday,244,11227027,56,The Hitman's Bodyguard,2442033,Sep,1 ,2017,
+244,Saturday,245,18699133,59,The Hitman's Bodyguard,3990708,Sep,2 ,2017,
+245,Sunday,246,18985044,59,The Hitman's Bodyguard,4103269,Sep,3 ,2017,
+246,Monday,247,12986558,101,The Hitman's Bodyguard,2736702,Sep,4 ,2017,Labor Day
+247,Tuesday,248,4011084,56,The Hitman's Bodyguard,921067,Sep,5 ,2017,
+248,Wednesday,249,2979235,56,The Hitman's Bodyguard,635013,Sep,6 ,2017,
+249,Thursday,250,2314756,58,The Hitman's Bodyguard,524001,Sep,7 ,2017,
+250,Friday,251,59530906,60,It,50425786,Sep,8 ,2017,
+251,Saturday,252,58343815,61,It,44986221,Sep,9 ,2017,
+252,Sunday,253,35203661,59,It,27991412,Sep,10 ,2017,
+253,Monday,254,11034172,59,It,8761479,Sep,11 ,2017,
+254,Tuesday,255,15257449,60,It,11435492,Sep,12 ,2017,
+255,Wednesday,256,10618854,58,It,7907855,Sep,13 ,2017,
+256,Thursday,257,9641250,57,It,7202374,Sep,14 ,2017,
+257,Friday,258,33607183,59,It,19162071,Sep,15 ,2017,
+258,Saturday,259,42912874,59,It,25835611,Sep,16 ,2017,
+259,Sunday,260,25174282,60,It,15105428,Sep,17 ,2017,
+260,Monday,261,7612952,61,It,4208189,Sep,18 ,2017,
+261,Tuesday,262,10246308,60,It,5361721,Sep,19 ,2017,
+262,Wednesday,263,7327735,60,It,4022988,Sep,20 ,2017,
+263,Thursday,264,7076405,60,It,3932254,Sep,21 ,2017,
+264,Friday,265,36113081,63,Kingsman: The Golden Circle,15273268,Sep,22 ,2017,
+265,Saturday,266,45474388,63,Kingsman: The Golden Circle,14676814,Sep,23 ,2017,
+266,Sunday,267,26885165,61,Kingsman: The Golden Circle,9072928,Sep,24 ,2017,
+267,Monday,268,6945351,62,Kingsman: The Golden Circle,2602154,Sep,25 ,2017,
+268,Tuesday,269,11526211,61,Kingsman: The Golden Circle,3892373,Sep,26 ,2017,
+269,Wednesday,270,6397907,60,Kingsman: The Golden Circle,2222107,Sep,27 ,2017,
+270,Thursday,271,6793459,60,Kingsman: The Golden Circle,1961944,Sep,28 ,2017,
+271,Friday,272,24363397,61,American Made,6168025,Sep,29 ,2017,
+272,Saturday,273,35357409,60,It,7811673,Sep,30 ,2017,
+273,Sunday,274,20543100,60,Kingsman: The Golden Circle,4480023,Oct,1 ,2017,
+274,Monday,275,5330590,61,American Made,1276595,Oct,2 ,2017,
+275,Tuesday,276,8268173,62,American Made,2011565,Oct,3 ,2017,
+276,Wednesday,277,5865933,63,American Made,1253065,Oct,4 ,2017,
+277,Thursday,278,5229961,62,American Made,1054345,Oct,5 ,2017,
+278,Friday,279,31091933,64,Blade Runner 2049,12595704,Oct,6 ,2017,
+279,Saturday,280,37624025,61,Blade Runner 2049,11301357,Oct,7 ,2017,
+280,Sunday,281,28285111,63,Blade Runner 2049,8856061,Oct,8 ,2017,
+281,Monday,282,15152864,66,Blade Runner 2049,4471019,Oct,9 ,2017,Indig. Peoples' Day
+282,Tuesday,283,10353740,65,Blade Runner 2049,3557142,Oct,10 ,2017,
+283,Wednesday,284,7195126,63,Blade Runner 2049,2462894,Oct,11 ,2017,
+284,Thursday,285,6518140,63,Blade Runner 2049,2234210,Oct,12 ,2017,
+285,Friday,286,30428923,62,Happy Death Day,11659375,Oct,13 ,2017,
+286,Saturday,287,36145995,64,Happy Death Day,9362760,Oct,14 ,2017,
+287,Sunday,288,22359541,63,Happy Death Day,5016890,Oct,15 ,2017,
+288,Monday,289,6640725,66,Blade Runner 2049,1444435,Oct,16 ,2017,
+289,Tuesday,290,8677821,66,Blade Runner 2049,1848120,Oct,17 ,2017,
+290,Wednesday,291,5750719,64,Blade Runner 2049,1302529,Oct,18 ,2017,
+291,Thursday,292,5695184,64,Blade Runner 2049,1284488,Oct,19 ,2017,
+292,Friday,293,25207800,66,Boo 2! A Madea Halloween,7451354,Oct,20 ,2017,
+293,Saturday,294,32033329,65,Boo 2! A Madea Halloween,8818022,Oct,21 ,2017,
+294,Sunday,295,19666662,65,Boo 2! A Madea Halloween,4957577,Oct,22 ,2017,
+295,Monday,296,5863382,61,Boo 2! A Madea Halloween,1060097,Oct,23 ,2017,
+296,Tuesday,297,8480466,62,Boo 2! A Madea Halloween,1562742,Oct,24 ,2017,
+297,Wednesday,298,5219220,64,Boo 2! A Madea Halloween,849570,Oct,25 ,2017,
+298,Thursday,299,4828745,64,Boo 2! A Madea Halloween,822281,Oct,26 ,2017,
+299,Friday,300,19304832,61,Jigsaw,7171360,Oct,27 ,2017,
+300,Saturday,301,23295216,61,Jigsaw,5654051,Oct,28 ,2017,
+301,Sunday,302,15299332,58,Jigsaw,3815041,Oct,29 ,2017,
+302,Monday,303,4969217,58,Jigsaw,1400201,Oct,30 ,2017,
+303,Tuesday,304,7544877,59,Jigsaw,2223252,Oct,31 ,2017,Halloween
+304,Wednesday,305,6146712,61,A Bad Moms Christmas,2516556,Nov,1 ,2017,
+305,Thursday,306,5464291,60,A Bad Moms Christmas,2009550,Nov,2 ,2017,
+306,Friday,307,59169676,62,Thor: Ragnarok,46470936,Nov,3 ,2017,
+307,Saturday,308,62375745,62,Thor: Ragnarok,44203752,Nov,4 ,2017,
+308,Sunday,309,43101496,61,Thor: Ragnarok,32070301,Nov,5 ,2017,
+309,Monday,310,11621417,59,Thor: Ragnarok,8247661,Nov,6 ,2017,
+310,Tuesday,311,15984573,58,Thor: Ragnarok,10824443,Nov,7 ,2017,
+311,Wednesday,312,9640220,59,Thor: Ragnarok,6148407,Nov,8 ,2017,
+312,Thursday,313,10784118,60,Thor: Ragnarok,7024207,Nov,9 ,2017,
+313,Friday,314,47558312,60,Thor: Ragnarok,18361360,Nov,10 ,2017,
+314,Saturday,315,55507201,61,Thor: Ragnarok,23744122,Nov,11 ,2017,
+315,Sunday,316,35155983,59,Thor: Ragnarok,14972824,Nov,12 ,2017,
+316,Monday,317,10290193,58,Thor: Ragnarok,3699478,Nov,13 ,2017,
+317,Tuesday,318,12292773,57,Thor: Ragnarok,4489361,Nov,14 ,2017,
+318,Wednesday,319,8429298,58,Thor: Ragnarok,2919452,Nov,15 ,2017,
+319,Thursday,320,7331730,60,Thor: Ragnarok,2419866,Nov,16 ,2017,
+320,Friday,321,68379288,61,Justice League,38471202,Nov,17 ,2017,
+321,Saturday,322,73815901,61,Justice League,32680117,Nov,18 ,2017,
+322,Sunday,323,50621177,60,Justice League,22690920,Nov,19 ,2017,
+323,Monday,324,19580801,58,Justice League,7508311,Nov,20 ,2017,
+324,Tuesday,325,27604823,56,Justice League,10551093,Nov,21 ,2017,
+325,Wednesday,326,43089303,61,Coco,13187576,Nov,22 ,2017,
+326,Thursday,327,33928458,60,Coco,8918749,Nov,23 ,2017,Thanksgiving
+327,Friday,328,69313582,57,Coco,18987822,Nov,24 ,2017,
+328,Saturday,329,67417028,58,Coco,18378913,Nov,25 ,2017,
+329,Sunday,330,41827157,58,Coco,13435870,Nov,26 ,2017,
+330,Monday,331,9362167,57,Coco,2322084,Nov,27 ,2017,
+331,Tuesday,332,13351652,56,Coco,3304140,Nov,28 ,2017,
+332,Wednesday,333,8987913,58,Coco,2000972,Nov,29 ,2017,
+333,Thursday,334,9443571,60,Coco,2039278,Nov,30 ,2017,
+334,Friday,335,25915312,58,Coco,6284319,Dec,1 ,2017,
+335,Saturday,336,42297179,58,Coco,11867693,Dec,2 ,2017,
+336,Sunday,337,28496461,58,Coco,9381292,Dec,3 ,2017,
+337,Monday,338,6598433,61,Coco,1495179,Dec,4 ,2017,
+338,Tuesday,339,10288815,59,Coco,2490329,Dec,5 ,2017,
+339,Wednesday,340,7131940,63,Coco,1577924,Dec,6 ,2017,
+340,Thursday,341,7070717,60,Coco,1533550,Dec,7 ,2017,
+341,Friday,342,20712423,58,Coco,4200706,Dec,8 ,2017,
+342,Saturday,343,30582338,57,Coco,8174557,Dec,9 ,2017,
+343,Sunday,344,20411998,55,Coco,6077052,Dec,10 ,2017,
+344,Monday,345,5550500,54,Coco,1109991,Dec,11 ,2017,
+345,Tuesday,346,8189972,54,Coco,1759297,Dec,12 ,2017,
+346,Wednesday,347,6009678,55,Coco,1188180,Dec,13 ,2017,
+347,Thursday,348,4880591,52,Coco,1070423,Dec,14 ,2017,
+348,Friday,349,116792459,47,Star Wars: Episode VIII - The Last Jedi,104684491,Dec,15 ,2017,
+349,Saturday,350,84117566,47,Star Wars: Episode VIII - The Last Jedi,63993205,Dec,16 ,2017,
+350,Sunday,351,66276341,47,Star Wars: Episode VIII - The Last Jedi,51331888,Dec,17 ,2017,
+351,Monday,352,27424111,41,Star Wars: Episode VIII - The Last Jedi,21556373,Dec,18 ,2017,
+352,Tuesday,353,28507490,41,Star Wars: Episode VIII - The Last Jedi,20254189,Dec,19 ,2017,
+353,Wednesday,354,31617933,43,Star Wars: Episode VIII - The Last Jedi,16889863,Dec,20 ,2017,
+354,Thursday,355,33077231,43,Star Wars: Episode VIII - The Last Jedi,17892347,Dec,21 ,2017,
+355,Friday,356,61502043,43,Star Wars: Episode VIII - The Last Jedi,24763084,Dec,22 ,2017,
+356,Saturday,357,64951725,43,Star Wars: Episode VIII - The Last Jedi,29172415,Dec,23 ,2017,
+357,Sunday,358,37849494,43,Star Wars: Episode VIII - The Last Jedi,17629999,Dec,24 ,2017,
+358,Monday,359,73401807,59,Star Wars: Episode VIII - The Last Jedi,27459557,Dec,25 ,2017,Christmas Day
+359,Tuesday,360,70791207,45,Star Wars: Episode VIII - The Last Jedi,27734356,Dec,26 ,2017,
+360,Wednesday,361,60173634,45,Star Wars: Episode VIII - The Last Jedi,21846132,Dec,27 ,2017,
+361,Thursday,362,57554148,45,Star Wars: Episode VIII - The Last Jedi,19490329,Dec,28 ,2017,
+362,Friday,363,62341373,44,Star Wars: Episode VIII - The Last Jedi,19029250,Dec,29 ,2017,
+363,Saturday,364,65944668,44,Star Wars: Episode VIII - The Last Jedi,19924241,Dec,30 ,2017,
+364,Sunday,365,45058610,44,Star Wars: Episode VIII - The Last Jedi,13566649,Dec,31 ,2017,New Year's Eve
+365,Monday,1,52749737,62,Jumanji: Welcome to the Jungle,16222389,Jan,1 ,2018,New Year's Day
+366,Tuesday,2,32940033,42,Jumanji: Welcome to the Jungle,10206952,Jan,2 ,2018,
+367,Wednesday,3,22682618,42,Jumanji: Welcome to the Jungle,6918854,Jan,3 ,2018,
+368,Thursday,4,19487086,42,Jumanji: Welcome to the Jungle,6021914,Jan,4 ,2018,
+369,Friday,5,46427974,45,Insidious: The Last Key,12723575,Jan,5 ,2018,
+370,Saturday,6,60035249,46,Jumanji: Welcome to the Jungle,15821094,Jan,6 ,2018,
+371,Sunday,7,37708478,45,Jumanji: Welcome to the Jungle,10663927,Jan,7 ,2018,
+372,Monday,8,10858592,44,Jumanji: Welcome to the Jungle,2668774,Jan,8 ,2018,
+373,Tuesday,9,14561460,44,Jumanji: Welcome to the Jungle,3544150,Jan,9 ,2018,
+374,Wednesday,10,10230138,44,Jumanji: Welcome to the Jungle,2186086,Jan,10 ,2018,
+375,Thursday,11,9469668,45,Jumanji: Welcome to the Jungle,2130580,Jan,11 ,2018,
+376,Friday,12,33953952,46,Jumanji: Welcome to the Jungle,6092687,Jan,12 ,2018,
+377,Saturday,13,52689160,47,Jumanji: Welcome to the Jungle,11959718,Jan,13 ,2018,
+378,Sunday,14,42682101,47,Jumanji: Welcome to the Jungle,10049567,Jan,14 ,2018,
+379,Monday,15,29690466,68,Jumanji: Welcome to the Jungle,7074723,Jan,15 ,2018,MLK Day
+380,Tuesday,16,11957311,45,Jumanji: Welcome to the Jungle,2417425,Jan,16 ,2018,
+381,Wednesday,17,8531276,45,Jumanji: Welcome to the Jungle,1641850,Jan,17 ,2018,
+382,Thursday,18,9293917,45,The Post,1709486,Jan,18 ,2018,
+383,Friday,19,31269671,50,12 Strong,5672828,Jan,19 ,2018,
+384,Saturday,20,47764511,50,Jumanji: Welcome to the Jungle,9482066,Jan,20 ,2018,
+385,Sunday,21,25141996,52,Jumanji: Welcome to the Jungle,5166968,Jan,21 ,2018,
+386,Monday,22,7822169,49,Den of Thieves,1304937,Jan,22 ,2018,
+387,Tuesday,23,11025234,48,12 Strong,1786596,Jan,23 ,2018,
+388,Wednesday,24,7828388,48,The Post,1201328,Jan,24 ,2018,
+389,Thursday,25,7612674,50,The Post,1141807,Jan,25 ,2018,
+390,Friday,26,29073174,48,Maze Runner: The Death Cure,8448249,Jan,26 ,2018,
+391,Saturday,27,44509189,50,Maze Runner: The Death Cure,9640001,Jan,27 ,2018,
+392,Sunday,28,28978087,49,Maze Runner: The Death Cure,6078761,Jan,28 ,2018,
+393,Monday,29,7232905,51,Maze Runner: The Death Cure,1362932,Jan,29 ,2018,
+394,Tuesday,30,9885632,49,Maze Runner: The Death Cure,1904916,Jan,30 ,2018,
+395,Wednesday,31,6870721,51,Maze Runner: The Death Cure,1090374,Jan,31 ,2018,
+396,Thursday,32,6575969,50,Maze Runner: The Death Cure,1034966,Feb,1 ,2018,
+397,Friday,33,20168149,46,Winchester,3622125,Feb,2 ,2018,
+398,Saturday,34,33813198,48,Jumanji: Welcome to the Jungle,5959033,Feb,3 ,2018,
+399,Sunday,35,11953036,48,Jumanji: Welcome to the Jungle,2097421,Feb,4 ,2018,
+400,Monday,36,5510566,47,Jumanji: Welcome to the Jungle,760867,Feb,5 ,2018,
+401,Tuesday,37,7674118,46,Maze Runner: The Death Cure,1027145,Feb,6 ,2018,
+402,Wednesday,38,5363456,48,Jumanji: Welcome to the Jungle,755162,Feb,7 ,2018,
+403,Thursday,39,5081520,47,Jumanji: Welcome to the Jungle,728381,Feb,8 ,2018,
+404,Friday,40,36944332,55,Fifty Shades Freed,18407850,Feb,9 ,2018,PyeongChang Olympics
+405,Saturday,41,46835924,55,Fifty Shades Freed,12635555,Feb,10 ,2018,PyeongChang Olympics
+406,Sunday,42,30053992,54,Peter Rabbit,8062715,Feb,11 ,2018,PyeongChang Olympics
+407,Monday,43,8443182,50,Fifty Shades Freed,2775995,Feb,12 ,2018,PyeongChang Olympics
+408,Tuesday,44,10800092,49,Fifty Shades Freed,3941660,Feb,13 ,2018,PyeongChang Olympics
+409,Wednesday,45,20977810,51,Fifty Shades Freed,10768020,Feb,14 ,2018,PyeongChang Olympics
+410,Thursday,46,7638718,49,Fifty Shades Freed,3145585,Feb,15 ,2018,PyeongChang Olympics
+411,Friday,47,93625853,56,Black Panther,75941146,Feb,16 ,2018,PyeongChang Olympics
+412,Saturday,48,93032364,54,Black Panther,65995366,Feb,17 ,2018,PyeongChang Olympics
+413,Sunday,49,80866768,55,Black Panther,60067439,Feb,18 ,2018,PyeongChang Olympics
+414,Monday,50,55644035,83,Black Panther,40151729,Feb,19 ,2018,Presidents' DayPyeongChang Olympics
+415,Tuesday,51,27755054,52,Black Panther,20857361,Feb,20 ,2018,PyeongChang Olympics
+416,Wednesday,52,19456030,54,Black Panther,14688057,Feb,21 ,2018,PyeongChang Olympics
+417,Thursday,53,19034170,55,Black Panther,14253324,Feb,22 ,2018,PyeongChang Olympics
+418,Friday,54,48123367,63,Black Panther,28789877,Feb,23 ,2018,PyeongChang Olympics
+419,Saturday,55,75931259,63,Black Panther,47553478,Feb,24 ,2018,PyeongChang Olympics
+420,Sunday,56,53547584,63,Black Panther,35315480,Feb,25 ,2018,PyeongChang Olympics
+421,Monday,57,12691820,55,Black Panther,8098481,Feb,26 ,2018,
+422,Tuesday,58,16812261,58,Black Panther,10204038,Feb,27 ,2018,
+423,Wednesday,59,11843453,60,Black Panther,6876570,Feb,28 ,2018,
+424,Thursday,60,11273924,61,Black Panther,6607691,Mar,1 ,2018,
+425,Friday,61,36454889,61,Black Panther,16257536,Mar,2 ,2018,
+426,Saturday,62,59784318,63,Black Panther,30052665,Mar,3 ,2018,
+427,Sunday,63,38100274,59,Black Panther,19996734,Mar,4 ,2018,
+428,Monday,64,10307562,58,Black Panther,4720738,Mar,5 ,2018,
+429,Tuesday,65,14048468,56,Black Panther,6258583,Mar,6 ,2018,
+430,Wednesday,66,9418815,57,Black Panther,3941783,Mar,7 ,2018,
+431,Thursday,67,9497502,61,Black Panther,4251525,Mar,8 ,2018,
+432,Friday,68,34777853,57,A Wrinkle in Time,10208602,Mar,9 ,2018,
+433,Saturday,69,53350586,58,Black Panther,18352112,Mar,10 ,2018,
+434,Sunday,70,35320874,59,Black Panther,12446683,Mar,11 ,2018,
+435,Monday,71,11792732,58,Black Panther,4035653,Mar,12 ,2018,
+436,Tuesday,72,15836301,54,Black Panther,5167907,Mar,13 ,2018,
+437,Wednesday,73,11494054,55,Black Panther,3843374,Mar,14 ,2018,
+438,Thursday,74,10454648,57,Black Panther,3632414,Mar,15 ,2018,
+439,Friday,75,38908010,55,Tomb Raider,8984365,Mar,16 ,2018,
+440,Saturday,76,47344750,55,Black Panther,11558877,Mar,17 ,2018,
+441,Sunday,77,32558002,57,Black Panther,7609433,Mar,18 ,2018,
+442,Monday,78,9898402,55,Black Panther,2188463,Mar,19 ,2018,
+443,Tuesday,79,13806700,56,Black Panther,2834515,Mar,20 ,2018,
+444,Wednesday,80,9672049,55,Black Panther,2052932,Mar,21 ,2018,
+445,Thursday,81,9626408,55,Black Panther,2155108,Mar,22 ,2018,
+446,Friday,82,33214529,54,Pacific Rim: Uprising,10329775,Mar,23 ,2018,
+447,Saturday,83,44760594,56,Pacific Rim: Uprising,10571865,Mar,24 ,2018,
+448,Sunday,84,30841994,56,Pacific Rim: Uprising,7214895,Mar,25 ,2018,
+449,Monday,85,10675452,54,Pacific Rim: Uprising,2165925,Mar,26 ,2018,
+450,Tuesday,86,15253350,54,Pacific Rim: Uprising,2945105,Mar,27 ,2018,
+451,Wednesday,87,10460796,55,Black Panther,1742732,Mar,28 ,2018,
+452,Thursday,88,23135312,55,Ready Player One,11946275,Mar,29 ,2018,
+453,Friday,89,43148753,58,Ready Player One,15004052,Mar,30 ,2018,
+454,Saturday,90,42281963,58,Ready Player One,15601179,Mar,31 ,2018,
+455,Sunday,91,29819800,57,Ready Player One,11158819,Apr,1 ,2018,Easter Sunday
+456,Monday,92,15668166,56,Ready Player One,5241464,Apr,2 ,2018,
+457,Tuesday,93,16475524,56,Ready Player One,5392511,Apr,3 ,2018,
+458,Wednesday,94,12678112,58,Ready Player One,4002387,Apr,4 ,2018,
+459,Thursday,95,10989200,57,Ready Player One,3513838,Apr,5 ,2018,
+460,Friday,96,46517966,53,A Quiet Place,18861111,Apr,6 ,2018,
+461,Saturday,97,58479714,54,A Quiet Place,19086510,Apr,7 ,2018,
+462,Sunday,98,35981451,56,A Quiet Place,12255941,Apr,8 ,2018,
+463,Monday,99,10596039,50,A Quiet Place,4170622,Apr,9 ,2018,
+464,Tuesday,100,14445959,52,A Quiet Place,5364754,Apr,10 ,2018,
+465,Wednesday,101,9827421,55,A Quiet Place,3664805,Apr,11 ,2018,
+466,Thursday,102,9083539,56,A Quiet Place,3632142,Apr,12 ,2018,
+467,Friday,103,42616059,56,Rampage,11543321,Apr,13 ,2018,
+468,Saturday,104,52909806,58,Rampage,13884589,Apr,14 ,2018,
+469,Sunday,105,36266384,58,Rampage,10325183,Apr,15 ,2018,
+470,Monday,106,10160409,52,A Quiet Place,2635801,Apr,16 ,2018,
+471,Tuesday,107,12685736,51,Rampage,3406845,Apr,17 ,2018,
+472,Wednesday,108,8710125,52,A Quiet Place,2256942,Apr,18 ,2018,
+473,Thursday,109,8637431,52,A Quiet Place,2323429,Apr,19 ,2018,
+474,Friday,110,36277334,57,Super Troopers 2,7945555,Apr,20 ,2018,
+475,Saturday,111,44126309,57,A Quiet Place,9356926,Apr,21 ,2018,
+476,Sunday,112,26784039,57,Rampage,6009640,Apr,22 ,2018,
+477,Monday,113,7560858,54,A Quiet Place,1513108,Apr,23 ,2018,
+478,Tuesday,114,10363526,53,A Quiet Place,2042162,Apr,24 ,2018,
+479,Wednesday,115,7307096,53,A Quiet Place,1450352,Apr,25 ,2018,
+480,Thursday,116,5666996,52,A Quiet Place,1247159,Apr,26 ,2018,
+481,Friday,117,119504737,55,Avengers: Infinity War,106334939,Apr,27 ,2018,
+482,Saturday,118,101912015,55,Avengers: Infinity War,82131612,Apr,28 ,2018,
+483,Sunday,119,81860580,55,Avengers: Infinity War,69231632,Apr,29 ,2018,
+484,Monday,120,28566353,54,Avengers: Infinity War,24740117,Apr,30 ,2018,
+485,Tuesday,121,28639093,54,Avengers: Infinity War,23426108,May,1 ,2018,
+486,Wednesday,122,20713483,54,Avengers: Infinity War,16966862,May,2 ,2018,
+487,Thursday,123,19367210,52,Avengers: Infinity War,15501270,May,3 ,2018,
+488,Friday,124,45292399,56,Avengers: Infinity War,31453749,May,4 ,2018,
+489,Saturday,125,64074617,55,Avengers: Infinity War,46676705,May,5 ,2018,
+490,Sunday,126,49754217,56,Avengers: Infinity War,36644356,May,6 ,2018,
+491,Monday,127,12107273,55,Avengers: Infinity War,8283575,May,7 ,2018,
+492,Tuesday,128,16093185,56,Avengers: Infinity War,10673500,May,8 ,2018,
+493,Wednesday,129,10883475,57,Avengers: Infinity War,7051981,May,9 ,2018,
+494,Thursday,130,10511219,55,Avengers: Infinity War,6895697,May,10 ,2018,
+495,Friday,131,32737187,56,Avengers: Infinity War,15986612,May,11 ,2018,
+496,Saturday,132,50165655,57,Avengers: Infinity War,26938937,May,12 ,2018,
+497,Sunday,133,43946437,58,Avengers: Infinity War,19152498,May,13 ,2018,
+498,Monday,134,9612387,54,Avengers: Infinity War,4625938,May,14 ,2018,
+499,Tuesday,135,12878077,57,Avengers: Infinity War,6009292,May,15 ,2018,
+500,Wednesday,136,8772117,58,Avengers: Infinity War,4193985,May,16 ,2018,
+501,Thursday,137,7078729,59,Avengers: Infinity War,3441594,May,17 ,2018,
+502,Friday,138,73767581,55,Deadpool 2,53034421,May,18 ,2018,
+503,Saturday,139,71898365,56,Deadpool 2,40474865,May,19 ,2018,
+504,Sunday,140,54866952,56,Deadpool 2,31997867,May,20 ,2018,
+505,Monday,141,19480906,56,Deadpool 2,12007149,May,21 ,2018,
+506,Tuesday,142,21956507,56,Deadpool 2,12401246,May,22 ,2018,
+507,Wednesday,143,14565889,56,Deadpool 2,8031712,May,23 ,2018,
+508,Thursday,144,12847699,55,Deadpool 2,6760092,May,24 ,2018,
+509,Friday,145,59302830,60,Solo: A Star Wars Story,35375125,May,25 ,2018,
+510,Saturday,146,57978530,61,Solo: A Star Wars Story,24601896,May,26 ,2018,
+511,Sunday,147,57854343,60,Solo: A Star Wars Story,24443468,May,27 ,2018,
+512,Monday,148,42991006,103,Solo: A Star Wars Story,18596323,May,28 ,2018,Memorial Day
+513,Tuesday,149,19339477,53,Solo: A Star Wars Story,7295767,May,29 ,2018,
+514,Wednesday,150,14061774,56,Solo: A Star Wars Story,4855886,May,30 ,2018,
+515,Thursday,151,13046247,56,Solo: A Star Wars Story,4424227,May,31 ,2018,
+516,Friday,152,28847168,58,Solo: A Star Wars Story,8121086,Jun,1 ,2018,
+517,Saturday,153,39722894,56,Solo: A Star Wars Story,12318620,Jun,2 ,2018,
+518,Sunday,154,28481684,57,Solo: A Star Wars Story,8957176,Jun,3 ,2018,
+519,Monday,155,10973333,57,Solo: A Star Wars Story,2964621,Jun,4 ,2018,
+520,Tuesday,156,14970493,56,Solo: A Star Wars Story,3987363,Jun,5 ,2018,
+521,Wednesday,157,10061331,55,Solo: A Star Wars Story,2544321,Jun,6 ,2018,
+522,Thursday,158,9185032,57,Solo: A Star Wars Story,2465595,Jun,7 ,2018,
+523,Friday,159,35529109,57,Ocean's Eight,15523247,Jun,8 ,2018,
+524,Saturday,160,41817853,55,Ocean's Eight,14888802,Jun,9 ,2018,
+525,Sunday,161,32313223,57,Ocean's Eight,11195329,Jun,10 ,2018,
+526,Monday,162,12895774,56,Ocean's Eight,4377160,Jun,11 ,2018,
+527,Tuesday,163,16901134,54,Ocean's Eight,6157129,Jun,12 ,2018,
+528,Wednesday,164,13295879,57,Ocean's Eight,4196035,Jun,13 ,2018,
+529,Thursday,165,10710793,56,Ocean's Eight,3282468,Jun,14 ,2018,World Cup (Russia)
+530,Friday,166,94453688,50,Incredibles 2,71260321,Jun,15 ,2018,World Cup (Russia)
+531,Saturday,167,86731622,49,Incredibles 2,58894582,Jun,16 ,2018,World Cup (Russia)
+532,Sunday,168,77495642,51,Incredibles 2,52533002,Jun,17 ,2018,World Cup (Russia)
+533,Monday,169,33350580,49,Incredibles 2,23627708,Jun,18 ,2018,World Cup (Russia)
+534,Tuesday,170,39476232,47,Incredibles 2,27059923,Jun,19 ,2018,World Cup (Russia)
+535,Wednesday,171,28920601,48,Incredibles 2,19737194,Jun,20 ,2018,World Cup (Russia)
+536,Thursday,172,24150660,48,Incredibles 2,16333960,Jun,21 ,2018,World Cup (Russia)
+537,Friday,173,94745213,49,Jurassic World: Fallen Kingdom,58566870,Jun,22 ,2018,World Cup (Russia)
+538,Saturday,174,98045334,48,Jurassic World: Fallen Kingdom,49701695,Jun,23 ,2018,World Cup (Russia)
+539,Sunday,175,76597788,50,Jurassic World: Fallen Kingdom,39756045,Jun,24 ,2018,World Cup (Russia)
+540,Monday,176,30571561,48,Jurassic World: Fallen Kingdom,14725880,Jun,25 ,2018,World Cup (Russia)
+541,Tuesday,177,39122111,47,Jurassic World: Fallen Kingdom,18390180,Jun,26 ,2018,World Cup (Russia)
+542,Wednesday,178,28009014,44,Jurassic World: Fallen Kingdom,12271855,Jun,27 ,2018,World Cup (Russia)
+543,Thursday,179,26632384,43,Jurassic World: Fallen Kingdom,11374810,Jun,28 ,2018,World Cup (Russia)
+544,Friday,180,51944737,56,Jurassic World: Fallen Kingdom,17374160,Jun,29 ,2018,World Cup (Russia)
+545,Saturday,181,63301953,57,Jurassic World: Fallen Kingdom,23831155,Jun,30 ,2018,World Cup (Russia)
+546,Sunday,182,52334791,54,Jurassic World: Fallen Kingdom,19706880,Jul,1 ,2018,World Cup (Russia)
+547,Monday,183,24588407,53,Jurassic World: Fallen Kingdom,8580225,Jul,2 ,2018,World Cup (Russia)
+548,Tuesday,184,32755697,54,Jurassic World: Fallen Kingdom,11891170,Jul,3 ,2018,World Cup (Russia)
+549,Wednesday,185,40619993,56,Jurassic World: Fallen Kingdom,11501395,Jul,4 ,2018,Independence DayWorld Cup (Russia)
+550,Thursday,186,25257863,55,Incredibles 2,7171034,Jul,5 ,2018,World Cup (Russia)
+551,Friday,187,67105419,50,Ant-Man and the Wasp,33725082,Jul,6 ,2018,World Cup (Russia)
+552,Saturday,188,61856503,50,Ant-Man and the Wasp,23555372,Jul,7 ,2018,World Cup (Russia)
+553,Sunday,189,47838328,51,Ant-Man and the Wasp,18531751,Jul,8 ,2018,World Cup (Russia)
+554,Monday,190,19734933,49,Ant-Man and the Wasp,6983824,Jul,9 ,2018,World Cup (Russia)
+555,Tuesday,191,27909644,49,Ant-Man and the Wasp,10042976,Jul,10 ,2018,World Cup (Russia)
+556,Wednesday,192,18094619,47,Ant-Man and the Wasp,5852591,Jul,11 ,2018,World Cup (Russia)
+557,Thursday,193,16097891,46,Ant-Man and the Wasp,5293629,Jul,12 ,2018,World Cup (Russia)
+558,Friday,194,51270452,52,Hotel Transylvania 3: Summer Vacation,16930506,Jul,13 ,2018,World Cup (Russia)
+559,Saturday,195,58331844,51,Hotel Transylvania 3: Summer Vacation,15217792,Jul,14 ,2018,World Cup (Russia)
+560,Sunday,196,44435573,54,Hotel Transylvania 3: Summer Vacation,11927927,Jul,15 ,2018,World Cup (Russia)
+561,Monday,197,18763348,49,Hotel Transylvania 3: Summer Vacation,5021214,Jul,16 ,2018,
+562,Tuesday,198,28932230,50,Hotel Transylvania 3: Summer Vacation,8505132,Jul,17 ,2018,
+563,Wednesday,199,17731153,47,Hotel Transylvania 3: Summer Vacation,4726875,Jul,18 ,2018,
+564,Thursday,200,15643674,44,Hotel Transylvania 3: Summer Vacation,4333438,Jul,19 ,2018,
+565,Friday,201,52030831,53,Mamma Mia! Here We Go Again,14286815,Jul,20 ,2018,
+566,Saturday,202,57766466,52,The Equalizer 2,12709883,Jul,21 ,2018,
+567,Sunday,203,47579661,57,The Equalizer 2,9925907,Jul,22 ,2018,
+568,Monday,204,20880859,53,Mamma Mia! Here We Go Again,4906510,Jul,23 ,2018,
+569,Tuesday,205,29587241,51,Mamma Mia! Here We Go Again,6742430,Jul,24 ,2018,
+570,Wednesday,206,20747967,48,Mamma Mia! Here We Go Again,4865225,Jul,25 ,2018,
+571,Thursday,207,16435851,49,Mamma Mia! Here We Go Again,3958180,Jul,26 ,2018,
+572,Friday,208,48422793,48,Mission: Impossible - Fallout,22803458,Jul,27 ,2018,
+573,Saturday,209,53407707,50,Mission: Impossible - Fallout,21421918,Jul,28 ,2018,
+574,Sunday,210,41500778,50,Mission: Impossible - Fallout,17011158,Jul,29 ,2018,
+575,Monday,211,18497814,48,Mission: Impossible - Fallout,6838935,Jul,30 ,2018,
+576,Tuesday,212,27199595,48,Mission: Impossible - Fallout,9451166,Jul,31 ,2018,
+577,Wednesday,213,19096759,52,Mission: Impossible - Fallout,6328934,Aug,1 ,2018,
+578,Thursday,214,16675198,50,Mission: Impossible - Fallout,5631802,Aug,2 ,2018,
+579,Friday,215,39104031,48,Mission: Impossible - Fallout,9851648,Aug,3 ,2018,
+580,Saturday,216,46541085,48,Mission: Impossible - Fallout,14731942,Aug,4 ,2018,
+581,Sunday,217,34094505,49,Mission: Impossible - Fallout,10740225,Aug,5 ,2018,
+582,Monday,218,16177531,48,Mission: Impossible - Fallout,4460884,Aug,6 ,2018,
+583,Tuesday,219,22043773,47,Mission: Impossible - Fallout,5665373,Aug,7 ,2018,
+584,Wednesday,220,14768762,47,Mission: Impossible - Fallout,3681670,Aug,8 ,2018,
+585,Thursday,221,12895346,47,Mission: Impossible - Fallout,3348171,Aug,9 ,2018,
+586,Friday,222,41642358,48,The Meg,16604015,Aug,10 ,2018,
+587,Saturday,223,49435728,48,The Meg,16277249,Aug,11 ,2018,
+588,Sunday,224,35900467,49,The Meg,12520931,Aug,12 ,2018,
+589,Monday,225,14972557,48,The Meg,4552992,Aug,13 ,2018,
+590,Tuesday,226,20084281,48,The Meg,6036127,Aug,14 ,2018,
+591,Wednesday,227,16433770,49,Crazy Rich Asians,5013478,Aug,15 ,2018,
+592,Thursday,228,14514929,49,Crazy Rich Asians,3753291,Aug,16 ,2018,
+593,Friday,229,32778649,53,Crazy Rich Asians,7267366,Aug,17 ,2018,
+594,Saturday,230,44491938,55,Crazy Rich Asians,10284759,Aug,18 ,2018,
+595,Sunday,231,33447570,55,Crazy Rich Asians,8958015,Aug,19 ,2018,
+596,Monday,232,12414447,53,Crazy Rich Asians,3631134,Aug,20 ,2018,
+597,Tuesday,233,18512685,53,Crazy Rich Asians,5523718,Aug,21 ,2018,
+598,Wednesday,234,12276093,52,Crazy Rich Asians,3733627,Aug,22 ,2018,
+599,Thursday,235,10407753,53,Crazy Rich Asians,3643559,Aug,23 ,2018,
+600,Friday,236,24495949,59,Crazy Rich Asians,7020104,Aug,24 ,2018,
+601,Saturday,237,35412088,61,Crazy Rich Asians,10346442,Aug,25 ,2018,
+602,Sunday,238,24727130,60,Crazy Rich Asians,7441656,Aug,26 ,2018,
+603,Monday,239,8247086,58,Crazy Rich Asians,2665261,Aug,27 ,2018,
+604,Tuesday,240,12453461,57,Crazy Rich Asians,4304963,Aug,28 ,2018,
+605,Wednesday,241,8797470,58,Crazy Rich Asians,2667019,Aug,29 ,2018,
+606,Thursday,242,7927356,54,Crazy Rich Asians,2472996,Aug,30 ,2018,
+607,Friday,243,18931709,61,Crazy Rich Asians,5836591,Aug,31 ,2018,
+608,Saturday,244,26975500,61,Crazy Rich Asians,7896679,Sep,1 ,2018,
+609,Sunday,245,28055583,63,Crazy Rich Asians,8231075,Sep,2 ,2018,
+610,Monday,246,22833085,64,Crazy Rich Asians,6611877,Sep,3 ,2018,Labor Day
+611,Tuesday,247,7457316,60,Crazy Rich Asians,2292830,Sep,4 ,2018,
+612,Wednesday,248,5020082,59,Crazy Rich Asians,1643844,Sep,5 ,2018,
+613,Thursday,249,4190229,59,Crazy Rich Asians,1381881,Sep,6 ,2018,
+614,Friday,250,37261720,62,The Nun,22082173,Sep,7 ,2018,
+615,Saturday,251,43047200,64,The Nun,19788796,Sep,8 ,2018,
+616,Sunday,252,26024276,64,The Nun,11936410,Sep,9 ,2018,
+617,Monday,253,8402915,60,The Nun,3524525,Sep,10 ,2018,
+618,Tuesday,254,11420145,61,The Nun,4818789,Sep,11 ,2018,
+619,Wednesday,255,6854153,63,The Nun,2518075,Sep,12 ,2018,
+620,Thursday,256,6097784,64,The Nun,2207557,Sep,13 ,2018,
+621,Friday,257,33353697,69,The Predator,10303059,Sep,14 ,2018,
+622,Saturday,258,37255832,73,The Predator,8394521,Sep,15 ,2018,
+623,Sunday,259,23642393,70,The Predator,5934704,Sep,16 ,2018,
+624,Monday,260,7544738,65,The Predator,1901211,Sep,17 ,2018,
+625,Tuesday,261,11589402,67,The Predator,2502227,Sep,18 ,2018,
+626,Wednesday,262,7748148,70,The Predator,1464357,Sep,19 ,2018,
+627,Thursday,263,6272634,68,A Simple Favor,1245247,Sep,20 ,2018,
+628,Friday,264,23428430,63,The House with a Clock in Its Walls,7792860,Sep,21 ,2018,
+629,Saturday,265,34464455,62,The House with a Clock in Its Walls,11478330,Sep,22 ,2018,
+630,Sunday,266,20654487,62,The House with a Clock in Its Walls,7336830,Sep,23 ,2018,
+631,Monday,267,5482746,64,The House with a Clock in Its Walls,1236560,Sep,24 ,2018,
+632,Tuesday,268,9556652,64,The House with a Clock in Its Walls,2243770,Sep,25 ,2018,
+633,Wednesday,269,6182375,64,The House with a Clock in Its Walls,1137555,Sep,26 ,2018,
+634,Thursday,270,5403453,64,The House with a Clock in Its Walls,1027320,Sep,27 ,2018,
+635,Friday,271,28267163,69,Night School,9520825,Sep,28 ,2018,
+636,Saturday,272,40091310,71,Night School,11268050,Sep,29 ,2018,
+637,Sunday,273,24254408,67,Smallfoot,6737165,Sep,30 ,2018,
+638,Monday,274,6014984,68,Night School,1672715,Oct,1 ,2018,
+639,Tuesday,275,10209526,66,Night School,2781015,Oct,2 ,2018,
+640,Wednesday,276,5596822,68,Night School,1552405,Oct,3 ,2018,
+641,Thursday,277,4906855,68,Night School,1212605,Oct,4 ,2018,
+642,Friday,278,60151242,66,Venom,32503530,Oct,5 ,2018,
+643,Saturday,279,61523744,67,Venom,26371927,Oct,6 ,2018,
+644,Sunday,280,47954717,67,Venom,21380299,Oct,7 ,2018,
+645,Monday,281,24366989,69,Venom,9631343,Oct,8 ,2018,Indig. Peoples' Day
+646,Tuesday,282,19213756,64,Venom,8228610,Oct,9 ,2018,
+647,Wednesday,283,12940866,64,Venom,4731282,Oct,10 ,2018,
+648,Thursday,284,11900338,61,A Star Is Born,4513106,Oct,11 ,2018,
+649,Friday,285,38131210,64,Venom,9775629,Oct,12 ,2018,
+650,Saturday,286,53659930,65,Venom,15275974,Oct,13 ,2018,
+651,Sunday,287,34399338,66,Venom,9954504,Oct,14 ,2018,
+652,Monday,288,10492447,63,A Star Is Born,2933257,Oct,15 ,2018,
+653,Tuesday,289,13896718,63,A Star Is Born,3934191,Oct,16 ,2018,
+654,Wednesday,290,9154256,65,A Star Is Born,2928489,Oct,17 ,2018,
+655,Thursday,291,8750173,64,A Star Is Born,2674744,Oct,18 ,2018,
+656,Friday,292,56148117,61,Halloween,33083030,Oct,19 ,2018,
+657,Saturday,293,61814586,64,Halloween,27081225,Oct,20 ,2018,
+658,Sunday,294,38060652,62,Halloween,16057290,Oct,21 ,2018,
+659,Monday,295,10806913,59,Halloween,4644210,Oct,22 ,2018,
+660,Tuesday,296,15376609,59,Halloween,6347465,Oct,23 ,2018,
+661,Wednesday,297,9698501,60,Halloween,3679080,Oct,24 ,2018,
+662,Thursday,298,9899853,61,Halloween,3764100,Oct,25 ,2018,
+663,Friday,299,27496524,68,Halloween,9895460,Oct,26 ,2018,
+664,Saturday,300,39246684,70,Halloween,13588795,Oct,27 ,2018,
+665,Sunday,301,24248885,70,Halloween,7934815,Oct,28 ,2018,
+666,Monday,302,7253711,70,Halloween,2471040,Oct,29 ,2018,
+667,Tuesday,303,10685276,67,Halloween,3791900,Oct,30 ,2018,
+668,Wednesday,304,11026565,66,Halloween,5547305,Oct,31 ,2018,Halloween
+669,Thursday,305,5975432,68,Halloween,1507990,Nov,1 ,2018,
+670,Friday,306,41933368,66,Bohemian Rhapsody,18811564,Nov,2 ,2018,
+671,Saturday,307,53081284,67,Bohemian Rhapsody,18869750,Nov,3 ,2018,
+672,Sunday,308,34370134,67,Bohemian Rhapsody,13379805,Nov,4 ,2018,
+673,Monday,309,9848845,64,Bohemian Rhapsody,4385123,Nov,5 ,2018,
+674,Tuesday,310,16116864,65,Bohemian Rhapsody,6248841,Nov,6 ,2018,
+675,Wednesday,311,8675372,65,Bohemian Rhapsody,3938110,Nov,7 ,2018,
+676,Thursday,312,7969253,62,Bohemian Rhapsody,3527355,Nov,8 ,2018,
+677,Friday,313,43392632,62,The Grinch,18641165,Nov,9 ,2018,
+678,Saturday,314,62756436,62,The Grinch,27444270,Nov,10 ,2018,
+679,Sunday,315,46431475,65,The Grinch,21487420,Nov,11 ,2018,
+680,Monday,316,22745739,61,The Grinch,10665595,Nov,12 ,2018,
+681,Tuesday,317,14215303,63,The Grinch,4952140,Nov,13 ,2018,
+682,Wednesday,318,8497130,64,The Grinch,2661885,Nov,14 ,2018,
+683,Thursday,319,8057483,63,The Grinch,2523805,Nov,15 ,2018,
+684,Friday,320,52088352,61,Fantastic Beasts: The Crimes of Grindelwald,25473261,Nov,16 ,2018,
+685,Saturday,321,64079674,62,Fantastic Beasts: The Crimes of Grindelwald,21321824,Nov,17 ,2018,
+686,Sunday,322,45823172,61,Fantastic Beasts: The Crimes of Grindelwald,15368019,Nov,18 ,2018,
+687,Monday,323,16386643,55,Fantastic Beasts: The Crimes of Grindelwald,5074414,Nov,19 ,2018,
+688,Tuesday,324,22600225,55,Fantastic Beasts: The Crimes of Grindelwald,6959720,Nov,20 ,2018,
+689,Wednesday,325,54726134,58,Ralph Breaks the Internet,18340440,Nov,21 ,2018,
+690,Thursday,326,40067310,58,Ralph Breaks the Internet,10172331,Nov,22 ,2018,Thanksgiving
+691,Friday,327,78680108,54,Ralph Breaks the Internet,21711098,Nov,23 ,2018,
+692,Saturday,328,78342803,55,Ralph Breaks the Internet,21178540,Nov,24 ,2018,
+693,Sunday,329,46813707,55,Ralph Breaks the Internet,13347996,Nov,25 ,2018,
+694,Monday,330,10836901,55,Ralph Breaks the Internet,2251879,Nov,26 ,2018,
+695,Tuesday,331,15536680,52,Ralph Breaks the Internet,3235011,Nov,27 ,2018,
+696,Wednesday,332,9398372,55,Creed II,1702204,Nov,28 ,2018,
+697,Thursday,333,9295049,58,Ralph Breaks the Internet,1650373,Nov,29 ,2018,
+698,Friday,334,28440698,54,Ralph Breaks the Internet,5748927,Nov,30 ,2018,
+699,Saturday,335,47431308,54,Ralph Breaks the Internet,11908969,Dec,1 ,2018,
+700,Sunday,336,30318732,55,Ralph Breaks the Internet,7909049,Dec,2 ,2018,
+701,Monday,337,6698881,54,Ralph Breaks the Internet,1152644,Dec,3 ,2018,
+702,Tuesday,338,11596578,54,Ralph Breaks the Internet,2139443,Dec,4 ,2018,
+703,Wednesday,339,7589749,52,Ralph Breaks the Internet,1218513,Dec,5 ,2018,
+704,Thursday,340,7043951,54,Creed II,1107634,Dec,6 ,2018,
+705,Friday,341,18614792,61,Ralph Breaks the Internet,3515711,Dec,7 ,2018,
+706,Saturday,342,34133076,62,Ralph Breaks the Internet,7762516,Dec,8 ,2018,
+707,Sunday,343,21129847,63,Ralph Breaks the Internet,4975604,Dec,9 ,2018,
+708,Monday,344,5456743,62,The Grinch,893640,Dec,10 ,2018,
+709,Tuesday,345,8862469,61,The Grinch,1533720,Dec,11 ,2018,
+710,Wednesday,346,6234474,64,The Grinch,970245,Dec,12 ,2018,
+711,Thursday,347,5264085,63,The Grinch,987880,Dec,13 ,2018,
+712,Friday,348,31834524,60,Spider-Man: Into the Spider-Verse,12665081,Dec,14 ,2018,
+713,Saturday,349,42788962,65,Spider-Man: Into the Spider-Verse,13012817,Dec,15 ,2018,
+714,Sunday,350,28645794,62,Spider-Man: Into the Spider-Verse,9685478,Dec,16 ,2018,
+715,Monday,351,11160534,61,Spider-Man: Into the Spider-Verse,2765829,Dec,17 ,2018,
+716,Tuesday,352,14278049,59,Spider-Man: Into the Spider-Verse,4301097,Dec,18 ,2018,
+717,Wednesday,353,15362046,63,Mary Poppins Returns,4763547,Dec,19 ,2018,
+718,Thursday,354,12943731,60,Mary Poppins Returns,4051124,Dec,20 ,2018,
+719,Friday,355,58331971,53,Aquaman,27733155,Dec,21 ,2018,
+720,Saturday,356,55554266,52,Aquaman,21346634,Dec,22 ,2018,
+721,Sunday,357,49473471,53,Aquaman,18793733,Dec,23 ,2018,
+722,Monday,358,31752644,49,Aquaman,10851928,Dec,24 ,2018,
+723,Tuesday,359,70898743,53,Aquaman,21982419,Dec,25 ,2018,Christmas Day
+724,Wednesday,360,55579761,52,Aquaman,16903518,Dec,26 ,2018,
+725,Thursday,361,51671321,53,Aquaman,14622228,Dec,27 ,2018,
+726,Friday,362,56667767,51,Aquaman,17041113,Dec,28 ,2018,
+727,Saturday,363,58118460,51,Aquaman,18632907,Dec,29 ,2018,
+728,Sunday,364,50932176,51,Aquaman,16440551,Dec,30 ,2018,
+729,Monday,365,36240441,53,Aquaman,10011638,Dec,31 ,2018,New Year's Eve
+730,Tuesday,1,52588390,53,Aquaman,16377779,Jan,1 ,2019,New Year's Day
+731,Wednesday,2,25043176,53,Aquaman,7379476,Jan,2 ,2019,
+732,Thursday,3,22001708,55,Aquaman,6203801,Jan,3 ,2019,
+733,Friday,4,38870140,52,Aquaman,9388082,Jan,4 ,2019,
+734,Saturday,5,48843884,52,Aquaman,13053690,Jan,5 ,2019,
+735,Sunday,6,31293715,52,Aquaman,8561508,Jan,6 ,2019,
+736,Monday,7,9979794,48,Aquaman,2583295,Jan,7 ,2019,
+737,Tuesday,8,14364595,50,Aquaman,3852619,Jan,8 ,2019,
+738,Wednesday,9,9403436,50,Aquaman,2134441,Jan,9 ,2019,
+739,Thursday,10,8098409,48,Aquaman,2002266,Jan,10 ,2019,
+740,Friday,11,28100212,51,The Upside,6928354,Jan,11 ,2019,
+741,Saturday,12,41458012,52,The Upside,7864742,Jan,12 ,2019,
+742,Sunday,13,27281866,52,The Upside,5561904,Jan,13 ,2019,
+743,Monday,14,7718033,48,The Upside,1752184,Jan,14 ,2019,
+744,Tuesday,15,12473769,49,The Upside,2834401,Jan,15 ,2019,
+745,Wednesday,16,14180577,48,Dragon Ball Super: Broly,7043068,Jan,16 ,2019,
+746,Thursday,17,9956091,49,Dragon Ball Super: Broly,3376374,Jan,17 ,2019,
+747,Friday,18,33442056,50,Glass,15886745,Jan,18 ,2019,
+748,Saturday,19,44908041,49,Glass,14524105,Jan,19 ,2019,
+749,Sunday,20,31173062,49,Glass,9918070,Jan,20 ,2019,
+750,Monday,21,26640078,51,Glass,6176030,Jan,21 ,2019,MLK Day
+751,Tuesday,22,11717186,48,Glass,3814910,Jan,22 ,2019,
+752,Wednesday,23,7111194,49,Glass,2144560,Jan,23 ,2019,
+753,Thursday,24,7135530,51,Glass,2076715,Jan,24 ,2019,
+754,Friday,25,18913633,51,Glass,4963595,Jan,25 ,2019,
+755,Saturday,26,35370112,53,Glass,8652565,Jan,26 ,2019,
+756,Sunday,27,21167825,53,Glass,5268280,Jan,27 ,2019,
+757,Monday,28,5011938,56,Glass,1310025,Jan,28 ,2019,
+758,Tuesday,29,7751898,55,Glass,1941805,Jan,29 ,2019,
+759,Wednesday,30,5355391,55,Glass,1205830,Jan,30 ,2019,
+760,Thursday,31,5554041,56,Glass,1236865,Jan,31 ,2019,
+761,Friday,32,15360084,55,Glass,2756700,Feb,1 ,2019,
+762,Saturday,33,26732767,55,Glass,5083445,Feb,2 ,2019,
+763,Sunday,34,10013531,56,Glass,1708650,Feb,3 ,2019,
+764,Monday,35,4118659,54,Glass,828240,Feb,4 ,2019,
+765,Tuesday,36,6462124,57,Glass,1192775,Feb,5 ,2019,
+766,Wednesday,37,4023437,55,Glass,737590,Feb,6 ,2019,
+767,Thursday,38,3789697,58,The Upside,639439,Feb,7 ,2019,
+768,Friday,39,27051182,60,The Lego Movie 2: The Second Part,8461120,Feb,8 ,2019,
+769,Saturday,40,42061813,61,The Lego Movie 2: The Second Part,15434411,Feb,9 ,2019,
+770,Sunday,41,25914522,64,The Lego Movie 2: The Second Part,10219804,Feb,10 ,2019,
+771,Monday,42,5597858,60,The Lego Movie 2: The Second Part,1454134,Feb,11 ,2019,
+772,Tuesday,43,7971721,59,The Lego Movie 2: The Second Part,2007731,Feb,12 ,2019,
+773,Wednesday,44,7406948,63,Isn't It Romantic,1825164,Feb,13 ,2019,
+774,Thursday,45,26259254,65,Alita: Battle Angel,8716232,Feb,14 ,2019,
+775,Friday,46,27172456,61,Alita: Battle Angel,7523239,Feb,15 ,2019,
+776,Saturday,47,44509925,61,Alita: Battle Angel,11702169,Feb,16 ,2019,
+777,Sunday,48,33515190,63,Alita: Battle Angel,9300205,Feb,17 ,2019,
+778,Monday,49,21411245,63,The Lego Movie 2: The Second Part,6948824,Feb,18 ,2019,Presidents' Day
+779,Tuesday,50,11247792,65,Alita: Battle Angel,3102259,Feb,19 ,2019,
+780,Wednesday,51,6608651,62,Alita: Battle Angel,1727342,Feb,20 ,2019,
+781,Thursday,52,6521286,60,Alita: Battle Angel,1601135,Feb,21 ,2019,
+782,Friday,53,32968787,55,How to Train Your Dragon: The Hidden World,17376690,Feb,22 ,2019,
+783,Saturday,54,47706821,55,How to Train Your Dragon: The Hidden World,22289305,Feb,23 ,2019,
+784,Sunday,55,30159635,56,How to Train Your Dragon: The Hidden World,15356250,Feb,24 ,2019,
+785,Monday,56,6057148,54,How to Train Your Dragon: The Hidden World,2332805,Feb,25 ,2019,
+786,Tuesday,57,9964130,54,How to Train Your Dragon: The Hidden World,3709180,Feb,26 ,2019,
+787,Wednesday,58,5788112,54,How to Train Your Dragon: The Hidden World,2038040,Feb,27 ,2019,
+788,Thursday,59,6153793,56,How to Train Your Dragon: The Hidden World,2048005,Feb,28 ,2019,
+789,Friday,60,25434405,61,A Madea Family Funeral,9200824,Mar,1 ,2019,
+790,Saturday,61,42441523,60,How to Train Your Dragon: The Hidden World,14075780,Mar,2 ,2019,
+791,Sunday,62,27003790,64,How to Train Your Dragon: The Hidden World,9521600,Mar,3 ,2019,
+792,Monday,63,6492011,61,How to Train Your Dragon: The Hidden World,1793125,Mar,4 ,2019,
+793,Tuesday,64,9832362,61,How to Train Your Dragon: The Hidden World,2631920,Mar,5 ,2019,
+794,Wednesday,65,5812439,61,How to Train Your Dragon: The Hidden World,1488855,Mar,6 ,2019,
+795,Thursday,66,4893029,62,How to Train Your Dragon: The Hidden World,1373410,Mar,7 ,2019,
+796,Friday,67,72816951,64,Captain Marvel,61715051,Mar,8 ,2019,
+797,Saturday,68,73122896,65,Captain Marvel,52872536,Mar,9 ,2019,
+798,Sunday,69,52155992,66,Captain Marvel,38845836,Mar,10 ,2019,
+799,Monday,70,15361034,65,Captain Marvel,10986773,Mar,11 ,2019,
+800,Tuesday,71,21508304,66,Captain Marvel,14641119,Mar,12 ,2019,
+801,Wednesday,72,13214862,65,Captain Marvel,8586183,Mar,13 ,2019,
+802,Thursday,73,13770254,67,Captain Marvel,9248435,Mar,14 ,2019,
+803,Friday,74,38586514,70,Captain Marvel,19036521,Mar,15 ,2019,
+804,Saturday,75,53046789,72,Captain Marvel,29418618,Mar,16 ,2019,
+805,Sunday,76,34837878,71,Captain Marvel,19532991,Mar,17 ,2019,
+806,Monday,77,9621329,69,Captain Marvel,5195836,Mar,18 ,2019,
+807,Tuesday,78,14742300,73,Captain Marvel,7603865,Mar,19 ,2019,
+808,Wednesday,79,8995950,70,Captain Marvel,4567773,Mar,20 ,2019,
+809,Thursday,80,8332449,70,Captain Marvel,4226298,Mar,21 ,2019,
+810,Friday,81,47316111,69,Us,28923540,Mar,22 ,2019,
+811,Saturday,82,55506348,70,Us,25378665,Mar,23 ,2019,
+812,Sunday,83,36496749,71,Us,16815420,Mar,24 ,2019,
+813,Monday,84,12012316,69,Us,5957425,Mar,25 ,2019,
+814,Tuesday,85,17294351,69,Us,7964260,Mar,26 ,2019,
+815,Wednesday,86,11229438,67,Us,5119495,Mar,27 ,2019,
+816,Thursday,87,9785895,67,Us,4455635,Mar,28 ,2019,
+817,Friday,88,40646631,69,Dumbo,15254549,Mar,29 ,2019,
+818,Saturday,89,52539417,70,Dumbo,17511870,Mar,30 ,2019,
+819,Sunday,90,36298098,71,Dumbo,13224329,Mar,31 ,2019,
+820,Monday,91,9933098,69,Dumbo,2881084,Apr,1 ,2019,
+821,Tuesday,92,14879214,70,Dumbo,4702332,Apr,2 ,2019,
+822,Wednesday,93,9042094,71,Dumbo,2385567,Apr,3 ,2019,
+823,Thursday,94,7981944,71,Dumbo,2087758,Apr,4 ,2019,
+824,Friday,95,48015154,67,Shazam!,20351441,Apr,5 ,2019,
+825,Saturday,96,53912988,67,Shazam!,19524162,Apr,6 ,2019,
+826,Sunday,97,35989324,68,Shazam!,13629723,Apr,7 ,2019,
+827,Monday,98,8644232,65,Shazam!,3051246,Apr,8 ,2019,
+828,Tuesday,99,14107492,65,Shazam!,4911092,Apr,9 ,2019,
+829,Wednesday,100,8190874,66,Shazam!,2607476,Apr,10 ,2019,
+830,Thursday,101,7371083,64,Shazam!,2372873,Apr,11 ,2019,
+831,Friday,102,31345105,64,Shazam!,6347368,Apr,12 ,2019,
+832,Saturday,103,42270604,62,Shazam!,11001190,Apr,13 ,2019,
+833,Sunday,104,26826395,62,Shazam!,7104956,Apr,14 ,2019,
+834,Monday,105,8658998,60,Shazam!,2098212,Apr,15 ,2019,
+835,Tuesday,106,13360291,62,Shazam!,3202526,Apr,16 ,2019,
+836,Wednesday,107,9786012,67,Shazam!,1919686,Apr,17 ,2019,
+837,Thursday,108,11466545,67,Shazam!,2526405,Apr,18 ,2019,
+838,Friday,109,37288620,70,The Curse of la Llorona,11919261,Apr,19 ,2019,
+839,Saturday,110,35883746,71,The Curse of la Llorona,8790664,Apr,20 ,2019,
+840,Sunday,111,22107077,70,The Curse of la Llorona,5637706,Apr,21 ,2019,Easter Sunday
+841,Monday,112,10860093,68,The Curse of la Llorona,2258033,Apr,22 ,2019,
+842,Tuesday,113,11769804,66,The Curse of la Llorona,2724802,Apr,23 ,2019,
+843,Wednesday,114,7286538,66,The Curse of la Llorona,1452658,Apr,24 ,2019,
+844,Thursday,115,5470899,63,Captain Marvel,1267909,Apr,25 ,2019,
+845,Friday,116,169024740,62,Avengers: Endgame,157461641,Apr,26 ,2019,
+846,Saturday,117,125799120,61,Avengers: Endgame,109264122,Apr,27 ,2019,
+847,Sunday,118,101755816,61,Avengers: Endgame,90389244,Apr,28 ,2019,
+848,Monday,119,40482256,59,Avengers: Endgame,36874439,Apr,29 ,2019,
+849,Tuesday,120,38228010,58,Avengers: Endgame,33110349,Apr,30 ,2019,
+850,Wednesday,121,28428623,59,Avengers: Endgame,25251991,May,1 ,2019,
+851,Thursday,122,24182684,59,Avengers: Endgame,21542852,May,2 ,2019,
+852,Friday,123,55662864,56,Avengers: Endgame,40736774,May,3 ,2019,
+853,Saturday,124,80779290,61,Avengers: Endgame,61527049,May,4 ,2019,
+854,Sunday,125,57468064,58,Avengers: Endgame,45119388,May,5 ,2019,
+855,Monday,126,13999459,57,Avengers: Endgame,10709607,May,6 ,2019,
+856,Tuesday,127,18262374,57,Avengers: Endgame,12518963,May,7 ,2019,
+857,Wednesday,128,11761262,59,Avengers: Endgame,8429166,May,8 ,2019,
+858,Thursday,129,10614193,53,Avengers: Endgame,7510154,May,9 ,2019,
+859,Friday,130,48449057,56,Pokémon Detective Pikachu,20575704,May,10 ,2019,
+860,Saturday,131,63550881,59,Avengers: Endgame,27542359,May,11 ,2019,
+861,Sunday,132,48353838,59,Avengers: Endgame,19567066,May,12 ,2019,
+862,Monday,133,12017630,54,Avengers: Endgame,4702092,May,13 ,2019,
+863,Tuesday,134,16466714,55,Avengers: Endgame,5742618,May,14 ,2019,
+864,Wednesday,135,10133783,52,Avengers: Endgame,3788021,May,15 ,2019,
+865,Thursday,136,9131851,54,Avengers: Endgame,3416496,May,16 ,2019,
+866,Friday,137,44857037,54,John Wick: Chapter 3 - Parabellum,22636381,May,17 ,2019,
+867,Saturday,138,54813657,52,John Wick: Chapter 3 - Parabellum,19613248,May,18 ,2019,
+868,Sunday,139,40230330,54,John Wick: Chapter 3 - Parabellum,14568438,May,19 ,2019,
+869,Monday,140,14450842,53,John Wick: Chapter 3 - Parabellum,5722448,May,20 ,2019,
+870,Tuesday,141,16345241,54,John Wick: Chapter 3 - Parabellum,6495961,May,21 ,2019,
+871,Wednesday,142,10453056,53,John Wick: Chapter 3 - Parabellum,4141103,May,22 ,2019,
+872,Thursday,143,9506456,53,John Wick: Chapter 3 - Parabellum,3461362,May,23 ,2019,
+873,Friday,144,54336217,50,Aladdin,31358935,May,24 ,2019,
+874,Saturday,145,59482284,49,Aladdin,30013295,May,25 ,2019,
+875,Sunday,146,59290524,49,Aladdin,30128699,May,26 ,2019,
+876,Monday,147,47274838,52,Aladdin,25305033,May,27 ,2019,Memorial Day
+877,Tuesday,148,22750090,50,Aladdin,12014982,May,28 ,2019,
+878,Wednesday,149,14658294,50,Aladdin,7455705,May,29 ,2019,
+879,Thursday,150,12283803,51,Aladdin,6420525,May,30 ,2019,
+880,Friday,151,56752712,55,Godzilla: King of the Monsters,19476894,May,31 ,2019,
+881,Saturday,152,62942485,55,Aladdin,17254688,Jun,1 ,2019,
+882,Sunday,153,47941123,56,Aladdin,13730016,Jun,2 ,2019,
+883,Monday,154,16487246,51,Aladdin,4699418,Jun,3 ,2019,
+884,Tuesday,155,25193976,50,Aladdin,7797927,Jun,4 ,2019,
+885,Wednesday,156,16234086,49,Aladdin,5101598,Jun,5 ,2019,
+886,Thursday,157,14487434,50,Aladdin,4749265,Jun,6 ,2019,
+887,Friday,158,52112115,55,The Secret Life of Pets 2,16339735,Jun,7 ,2019,
+888,Saturday,159,59952393,55,The Secret Life of Pets 2,17030935,Jun,8 ,2019,
+889,Sunday,160,46293877,55,The Secret Life of Pets 2,13282010,Jun,9 ,2019,
+890,Monday,161,16691424,54,The Secret Life of Pets 2,4600840,Jun,10 ,2019,
+891,Tuesday,162,24897611,54,The Secret Life of Pets 2,7158305,Jun,11 ,2019,
+892,Wednesday,163,16144551,56,The Secret Life of Pets 2,4458830,Jun,12 ,2019,
+893,Thursday,164,14439375,54,The Secret Life of Pets 2,4448735,Jun,13 ,2019,
+894,Friday,165,36368642,49,Men in Black: International,10504864,Jun,14 ,2019,
+895,Saturday,166,44606757,49,Men in Black: International,9525079,Jun,15 ,2019,
+896,Sunday,167,42998819,50,Men in Black: International,10005895,Jun,16 ,2019,
+897,Monday,168,13883046,49,The Secret Life of Pets 2,2951020,Jun,17 ,2019,
+898,Tuesday,169,22297228,49,The Secret Life of Pets 2,5272330,Jun,18 ,2019,
+899,Wednesday,170,14180615,50,The Secret Life of Pets 2,3382095,Jun,19 ,2019,
+900,Thursday,171,12340565,49,The Secret Life of Pets 2,3035540,Jun,20 ,2019,
+901,Friday,172,70406203,51,Toy Story 4,47406956,Jun,21 ,2019,
+902,Saturday,173,66038234,52,Toy Story 4,39524776,Jun,22 ,2019,
+903,Sunday,174,53715735,52,Toy Story 4,33976333,Jun,23 ,2019,
+904,Monday,175,22736218,51,Toy Story 4,14152710,Jun,24 ,2019,
+905,Tuesday,176,33013551,52,Toy Story 4,20570969,Jun,25 ,2019,
+906,Wednesday,177,26283471,51,Toy Story 4,11950952,Jun,26 ,2019,
+907,Thursday,178,22177539,50,Toy Story 4,11407113,Jun,27 ,2019,
+908,Friday,179,41791073,55,Toy Story 4,17089977,Jun,28 ,2019,
+909,Saturday,180,53451424,56,Toy Story 4,23043114,Jun,29 ,2019,
+910,Sunday,181,43582581,55,Toy Story 4,19567240,Jun,30 ,2019,
+911,Monday,182,18689812,52,Toy Story 4,7960780,Jul,1 ,2019,
+912,Tuesday,183,60024135,54,Spider-Man: Far from Home,39255628,Jul,2 ,2019,
+913,Wednesday,184,46767912,52,Spider-Man: Far from Home,27508094,Jul,3 ,2019,
+914,Thursday,185,44249306,54,Spider-Man: Far from Home,25720128,Jul,4 ,2019,Independence Day
+915,Friday,186,60925419,51,Spider-Man: Far from Home,32680863,Jul,5 ,2019,
+916,Saturday,187,65786028,51,Spider-Man: Far from Home,34222790,Jul,6 ,2019,
+917,Sunday,188,47498221,51,Spider-Man: Far from Home,25675559,Jul,7 ,2019,
+918,Monday,189,21229116,47,Spider-Man: Far from Home,10876965,Jul,8 ,2019,
+919,Tuesday,190,30897294,44,Spider-Man: Far from Home,15135394,Jul,9 ,2019,
+920,Wednesday,191,20000403,44,Spider-Man: Far from Home,9225531,Jul,10 ,2019,
+921,Thursday,192,19663316,47,Spider-Man: Far from Home,8928353,Jul,11 ,2019,
+922,Friday,193,35475721,57,Spider-Man: Far from Home,13337741,Jul,12 ,2019,
+923,Saturday,194,44559486,57,Spider-Man: Far from Home,18110228,Jul,13 ,2019,
+924,Sunday,195,34226276,60,Spider-Man: Far from Home,13905390,Jul,14 ,2019,
+925,Monday,196,14464894,57,Spider-Man: Far from Home,5527448,Jul,15 ,2019,
+926,Tuesday,197,23559110,57,Spider-Man: Far from Home,8822096,Jul,16 ,2019,
+927,Wednesday,198,15623748,57,Spider-Man: Far from Home,5408839,Jul,17 ,2019,
+928,Thursday,199,12703690,56,Spider-Man: Far from Home,4318365,Jul,18 ,2019,
+929,Friday,200,95837058,53,The Lion King,77930758,Jul,19 ,2019,
+930,Saturday,201,85766043,54,The Lion King,61007382,Jul,20 ,2019,
+931,Sunday,202,72016139,53,The Lion King,52832619,Jul,21 ,2019,
+932,Monday,203,29473548,49,The Lion King,21050219,Jul,22 ,2019,
+933,Tuesday,204,43501186,49,The Lion King,30392565,Jul,23 ,2019,
+934,Wednesday,205,25169227,51,The Lion King,17037057,Jul,24 ,2019,
+935,Thursday,206,22440847,50,The Lion King,15000934,Jul,25 ,2019,
+936,Friday,207,50211408,48,The Lion King,22432165,Jul,26 ,2019,
+937,Saturday,208,58380588,48,The Lion King,29867757,Jul,27 ,2019,
+938,Sunday,209,47030908,50,The Lion King,24321631,Jul,28 ,2019,
+939,Monday,210,19331379,49,The Lion King,9180811,Jul,29 ,2019,
+940,Tuesday,211,29311742,47,The Lion King,15218959,Jul,30 ,2019,
+941,Wednesday,212,18500578,48,The Lion King,8809285,Jul,31 ,2019,
+942,Thursday,213,15834506,45,The Lion King,7560936,Aug,1 ,2019,
+943,Friday,214,47920126,52,Fast & Furious Presents: Hobbs & Shaw,23605520,Aug,2 ,2019,
+944,Saturday,215,54293364,51,Fast & Furious Presents: Hobbs & Shaw,20552805,Aug,3 ,2019,
+945,Sunday,216,41679822,52,Fast & Furious Presents: Hobbs & Shaw,15880625,Aug,4 ,2019,
+946,Monday,217,17236644,50,Fast & Furious Presents: Hobbs & Shaw,5871570,Aug,5 ,2019,
+947,Tuesday,218,25305046,51,Fast & Furious Presents: Hobbs & Shaw,8514380,Aug,6 ,2019,
+948,Wednesday,219,15855534,51,The Lion King,4910061,Aug,7 ,2019,
+949,Thursday,220,13785009,53,The Lion King,4185359,Aug,8 ,2019,
+950,Friday,221,39577161,55,Scary Stories to Tell in the Dark,8781643,Aug,9 ,2019,
+951,Saturday,222,46654263,56,Fast & Furious Presents: Hobbs & Shaw,10456315,Aug,10 ,2019,
+952,Sunday,223,35140187,58,Fast & Furious Presents: Hobbs & Shaw,7739550,Aug,11 ,2019,
+953,Monday,224,14187971,54,Fast & Furious Presents: Hobbs & Shaw,2708915,Aug,12 ,2019,
+954,Tuesday,225,24203103,56,Fast & Furious Presents: Hobbs & Shaw,4181885,Aug,13 ,2019,
+955,Wednesday,226,13942664,55,Fast & Furious Presents: Hobbs & Shaw,2315680,Aug,14 ,2019,
+956,Thursday,227,11830013,56,Fast & Furious Presents: Hobbs & Shaw,2015545,Aug,15 ,2019,
+957,Friday,228,31424008,56,Good Boys,8314980,Aug,16 ,2019,
+958,Saturday,229,40704669,57,Good Boys,7329780,Aug,17 ,2019,
+959,Sunday,230,29728957,56,Good Boys,5757845,Aug,18 ,2019,
+960,Monday,231,10432200,53,Good Boys,2236030,Aug,19 ,2019,
+961,Tuesday,232,15588539,54,Good Boys,3030740,Aug,20 ,2019,
+962,Wednesday,233,11542194,52,Good Boys,1935025,Aug,21 ,2019,
+963,Thursday,234,9092749,51,Good Boys,1703105,Aug,22 ,2019,
+964,Friday,235,27485690,61,Angel Has Fallen,7958653,Aug,23 ,2019,
+965,Saturday,236,35293890,62,Angel Has Fallen,7788659,Aug,24 ,2019,
+966,Sunday,237,25119532,63,Angel Has Fallen,5633675,Aug,25 ,2019,
+967,Monday,238,8169076,62,Angel Has Fallen,1821078,Aug,26 ,2019,
+968,Tuesday,239,13158948,59,Angel Has Fallen,2995970,Aug,27 ,2019,
+969,Wednesday,240,7832897,60,Angel Has Fallen,1568899,Aug,28 ,2019,
+970,Thursday,241,7467977,59,Angel Has Fallen,1347287,Aug,29 ,2019,
+971,Friday,242,15420754,57,Angel Has Fallen,2890717,Aug,30 ,2019,
+972,Saturday,243,23864410,58,Angel Has Fallen,4349033,Aug,31 ,2019,
+973,Sunday,244,24787874,59,Angel Has Fallen,4559659,Sep,1 ,2019,
+974,Monday,245,20450930,57,Angel Has Fallen,3575630,Sep,2 ,2019,Labor Day
+975,Tuesday,246,7000338,55,Angel Has Fallen,1443720,Sep,3 ,2019,
+976,Wednesday,247,4314204,56,Angel Has Fallen,844855,Sep,4 ,2019,
+977,Thursday,248,3464521,53,Angel Has Fallen,682666,Sep,5 ,2019,
+978,Friday,249,45819096,57,It Chapter Two,37043656,Sep,6 ,2019,
+979,Saturday,250,48386580,57,It Chapter Two,33627227,Sep,7 ,2019,
+980,Sunday,251,29572976,56,It Chapter Two,20391269,Sep,8 ,2019,
+981,Monday,252,8036232,56,It Chapter Two,5478405,Sep,9 ,2019,
+982,Tuesday,253,12456628,57,It Chapter Two,8006196,Sep,10 ,2019,
+983,Wednesday,254,7507747,54,It Chapter Two,4521469,Sep,11 ,2019,
+984,Thursday,255,6541316,54,It Chapter Two,4000302,Sep,12 ,2019,
+985,Friday,256,32586848,58,Hustlers,13099693,Sep,13 ,2019,
+986,Saturday,257,40561993,57,It Chapter Two,17300571,Sep,14 ,2019,
+987,Sunday,258,24056556,59,It Chapter Two,9448683,Sep,15 ,2019,
+988,Monday,259,8155037,60,Hustlers,2749048,Sep,16 ,2019,
+989,Tuesday,260,11384163,61,Hustlers,4633021,Sep,17 ,2019,
+990,Wednesday,261,6936968,60,Hustlers,2635483,Sep,18 ,2019,
+991,Thursday,262,6051388,59,Hustlers,2346300,Sep,19 ,2019,
+992,Friday,263,41188444,65,Downton Abbey,13828975,Sep,20 ,2019,
+993,Saturday,264,43535907,64,Downton Abbey,9564725,Sep,21 ,2019,
+994,Sunday,265,28690303,65,Downton Abbey,7639965,Sep,22 ,2019,
+995,Monday,266,10395122,62,Downton Abbey,3287855,Sep,23 ,2019,
+996,Tuesday,267,13799906,62,Downton Abbey,4145420,Sep,24 ,2019,
+997,Wednesday,268,8688411,62,Downton Abbey,2901490,Sep,25 ,2019,
+998,Thursday,269,8136114,59,Downton Abbey,2641420,Sep,26 ,2019,
+999,Friday,270,24234037,54,Abominable,5654440,Sep,27 ,2019,
+1000,Saturday,271,36793199,57,Abominable,8995905,Sep,28 ,2019,
+1001,Sunday,272,22818240,58,Abominable,5961755,Sep,29 ,2019,
+1002,Monday,273,7658431,56,Downton Abbey,1668095,Sep,30 ,2019,
+1003,Tuesday,274,10738972,57,Downton Abbey,2310230,Oct,1 ,2019,
+1004,Wednesday,275,7495381,58,Downton Abbey,1730210,Oct,2 ,2019,
+1005,Thursday,276,5587741,56,Downton Abbey,1568515,Oct,3 ,2019,
+1006,Friday,277,52170134,55,Joker,39350693,Oct,4 ,2019,
+1007,Saturday,278,52865777,56,Joker,32476803,Oct,5 ,2019,
+1008,Sunday,279,37717482,56,Joker,24374841,Oct,6 ,2019,
+1009,Monday,280,13860697,50,Joker,9702049,Oct,7 ,2019,
+1010,Tuesday,281,20641366,51,Joker,13908626,Oct,8 ,2019,
+1011,Wednesday,282,14700112,52,Joker,9611712,Oct,9 ,2019,
+1012,Thursday,283,12087094,53,Joker,8304063,Oct,10 ,2019,
+1013,Friday,284,41999399,52,Joker,16906386,Oct,11 ,2019,
+1014,Saturday,285,52436937,54,Joker,22137778,Oct,12 ,2019,
+1015,Sunday,286,38469877,55,Joker,16817239,Oct,13 ,2019,
+1016,Monday,287,19926553,56,Joker,8345763,Oct,14 ,2019,Indig. Peoples' Day
+1017,Tuesday,288,16059741,56,Joker,6973525,Oct,15 ,2019,
+1018,Wednesday,289,10427444,54,Joker,4910895,Oct,16 ,2019,
+1019,Thursday,290,9199641,53,Joker,4203631,Oct,17 ,2019,
+1020,Friday,291,41424039,62,Maleficent: Mistress of Evil,12551906,Oct,18 ,2019,
+1021,Saturday,292,52663412,62,Maleficent: Mistress of Evil,14213517,Oct,19 ,2019,
+1022,Sunday,293,35771954,62,Maleficent: Mistress of Evil,10183290,Oct,20 ,2019,
+1023,Monday,294,9955759,60,Joker,2742836,Oct,21 ,2019,
+1024,Tuesday,295,15298320,63,Maleficent: Mistress of Evil,3983871,Oct,22 ,2019,
+1025,Wednesday,296,8669482,62,Joker,2450143,Oct,23 ,2019,
+1026,Thursday,297,8900850,63,Joker,2413101,Oct,24 ,2019,
+1027,Friday,298,26776569,60,Joker,5500308,Oct,25 ,2019,
+1028,Saturday,299,38191089,60,Maleficent: Mistress of Evil,8270749,Oct,26 ,2019,
+1029,Sunday,300,27178626,64,Maleficent: Mistress of Evil,6184545,Oct,27 ,2019,
+1030,Monday,301,8533752,60,Joker,1768872,Oct,28 ,2019,
+1031,Tuesday,302,11111558,57,Joker,2468414,Oct,29 ,2019,
+1032,Wednesday,303,6852150,57,Joker,1631209,Oct,30 ,2019,
+1033,Thursday,304,8323323,54,Joker,1886940,Oct,31 ,2019,Halloween
+1034,Friday,305,29928048,54,Terminator: Dark Fate,10551130,Nov,1 ,2019,
+1035,Saturday,306,41965566,57,Terminator: Dark Fate,10970370,Nov,2 ,2019,
+1036,Sunday,307,27483885,55,Terminator: Dark Fate,7512332,Nov,3 ,2019,
+1037,Monday,308,7716943,55,Terminator: Dark Fate,2063064,Nov,4 ,2019,
+1038,Tuesday,309,13173253,56,Terminator: Dark Fate,3429579,Nov,5 ,2019,
+1039,Wednesday,310,6889273,57,Terminator: Dark Fate,1696985,Nov,6 ,2019,
+1040,Thursday,311,6273986,55,Terminator: Dark Fate,1433670,Nov,7 ,2019,
+1041,Friday,312,30757803,56,Midway,6345369,Nov,8 ,2019,
+1042,Saturday,313,40390774,54,Midway,6523018,Nov,9 ,2019,
+1043,Sunday,314,29556564,55,Midway,5029032,Nov,10 ,2019,
+1044,Monday,315,15901040,59,Midway,3250098,Nov,11 ,2019,
+1045,Tuesday,316,11228501,60,Midway,2427046,Nov,12 ,2019,
+1046,Wednesday,317,6631735,56,Midway,1486389,Nov,13 ,2019,
+1047,Thursday,318,6311446,56,Midway,1329821,Nov,14 ,2019,
+1048,Friday,319,27764908,58,Ford v Ferrari,11011525,Nov,15 ,2019,
+1049,Saturday,320,38123029,58,Ford v Ferrari,12409617,Nov,16 ,2019,
+1050,Sunday,321,23739106,60,Ford v Ferrari,8053816,Nov,17 ,2019,
+1051,Monday,322,6713649,59,Ford v Ferrari,2360221,Nov,18 ,2019,
+1052,Tuesday,323,11181619,58,Ford v Ferrari,3721314,Nov,19 ,2019,
+1053,Wednesday,324,6982607,57,Ford v Ferrari,2409124,Nov,20 ,2019,
+1054,Thursday,325,5812815,56,Ford v Ferrari,2023953,Nov,21 ,2019,
+1055,Friday,326,60740243,56,Frozen II,42205262,Nov,22 ,2019,
+1056,Saturday,327,74835863,57,Frozen II,50041031,Nov,23 ,2019,
+1057,Sunday,328,54569715,57,Frozen II,38017065,Nov,24 ,2019,
+1058,Monday,329,19568580,55,Frozen II,12771012,Nov,25 ,2019,
+1059,Tuesday,330,31266098,53,Frozen II,20791974,Nov,26 ,2019,
+1060,Wednesday,331,43551766,53,Frozen II,24080546,Nov,27 ,2019,
+1061,Thursday,332,32997845,53,Frozen II,14960468,Nov,28 ,2019,Thanksgiving
+1062,Friday,333,66606168,51,Frozen II,34130914,Nov,29 ,2019,
+1063,Saturday,334,63577988,51,Frozen II,32363967,Nov,30 ,2019,
+1064,Sunday,335,37085196,53,Frozen II,19482892,Dec,1 ,2019,
+1065,Monday,336,9080802,54,Frozen II,3187895,Dec,2 ,2019,
+1066,Tuesday,337,13957681,54,Frozen II,5336770,Dec,3 ,2019,
+1067,Wednesday,338,8346926,54,Frozen II,2824699,Dec,4 ,2019,
+1068,Thursday,339,7986180,53,Frozen II,2730406,Dec,5 ,2019,
+1069,Friday,340,20815381,53,Frozen II,7816954,Dec,6 ,2019,
+1070,Saturday,341,35416686,54,Frozen II,16050532,Dec,7 ,2019,
+1071,Sunday,342,23778027,56,Frozen II,11298128,Dec,8 ,2019,
+1072,Monday,343,6119141,56,Frozen II,1890910,Dec,9 ,2019,
+1073,Tuesday,344,10602743,55,Frozen II,3585256,Dec,10 ,2019,
+1074,Wednesday,345,6533255,56,Frozen II,2034899,Dec,11 ,2019,
+1075,Thursday,346,5643980,54,Frozen II,1758492,Dec,12 ,2019,
+1076,Friday,347,34092053,56,Jumanji: The Next Level,19722984,Dec,13 ,2019,
+1077,Saturday,348,46058861,58,Jumanji: The Next Level,23610586,Dec,14 ,2019,
+1078,Sunday,349,30280587,59,Jumanji: The Next Level,15917973,Dec,15 ,2019,
+1079,Monday,350,8508581,54,Jumanji: The Next Level,3585828,Dec,16 ,2019,
+1080,Tuesday,351,14327480,53,Jumanji: The Next Level,6301757,Dec,17 ,2019,
+1081,Wednesday,352,8860729,54,Jumanji: The Next Level,3456336,Dec,18 ,2019,
+1082,Thursday,353,7862973,54,Jumanji: The Next Level,3215901,Dec,19 ,2019,
+1083,Friday,354,108450464,51,Star Wars: Episode IX - The Rise of Skywalker,89615288,Dec,20 ,2019,
+1084,Saturday,355,72035124,51,Star Wars: Episode IX - The Rise of Skywalker,47467565,Dec,21 ,2019,
+1085,Sunday,356,62731517,51,Star Wars: Episode IX - The Rise of Skywalker,40301011,Dec,22 ,2019,
+1086,Monday,357,47229945,52,Star Wars: Episode IX - The Rise of Skywalker,29389847,Dec,23 ,2019,
+1087,Tuesday,358,36838699,49,Star Wars: Episode IX - The Rise of Skywalker,20270474,Dec,24 ,2019,
+1088,Wednesday,359,75198949,54,Star Wars: Episode IX - The Rise of Skywalker,32165681,Dec,25 ,2019,Christmas Day
+1089,Thursday,360,68467070,54,Star Wars: Episode IX - The Rise of Skywalker,30586950,Dec,26 ,2019,
+1090,Friday,361,65191259,54,Star Wars: Episode IX - The Rise of Skywalker,26069973,Dec,27 ,2019,
+1091,Saturday,362,65192161,54,Star Wars: Episode IX - The Rise of Skywalker,25075535,Dec,28 ,2019,
+1092,Sunday,363,56411598,54,Star Wars: Episode IX - The Rise of Skywalker,21244082,Dec,29 ,2019,
+1093,Monday,364,43219231,53,Star Wars: Episode IX - The Rise of Skywalker,15302130,Dec,30 ,2019,
+1094,Tuesday,365,41665447,54,Star Wars: Episode IX - The Rise of Skywalker,13217698,Dec,31 ,2019,New Year's Eve
+1095,Wednesday,1,53187474,54,Star Wars: Episode IX - The Rise of Skywalker,17076472,Jan,1 ,2020,New Year's Day
+1096,Thursday,2,31762542,54,Star Wars: Episode IX - The Rise of Skywalker,9274735,Jan,2 ,2020,
+1097,Friday,3,44715346,50,Star Wars: Episode IX - The Rise of Skywalker,11038440,Jan,3 ,2020,
+1098,Saturday,4,53199800,51,Star Wars: Episode IX - The Rise of Skywalker,14319903,Jan,4 ,2020,
+1099,Sunday,5,33304942,53,Star Wars: Episode IX - The Rise of Skywalker,9166472,Jan,5 ,2020,
+1100,Monday,6,11385553,50,Star Wars: Episode IX - The Rise of Skywalker,2978242,Jan,6 ,2020,
+1101,Tuesday,7,15049864,50,Star Wars: Episode IX - The Rise of Skywalker,3981109,Jan,7 ,2020,
+1102,Wednesday,8,9214776,49,Star Wars: Episode IX - The Rise of Skywalker,2403487,Jan,8 ,2020,
+1103,Thursday,9,8206082,50,Star Wars: Episode IX - The Rise of Skywalker,2165596,Jan,9 ,2020,
+1104,Friday,10,37397262,49,1917,13962685,Jan,10 ,2020,
+1105,Saturday,11,48273391,48,1917,13742670,Jan,11 ,2020,
+1106,Sunday,12,31796959,48,1917,9294845,Jan,12 ,2020,
+1107,Monday,13,8794486,49,1917,3151305,Jan,13 ,2020,
+1108,Tuesday,14,15364359,48,1917,5288640,Jan,14 ,2020,
+1109,Wednesday,15,10924283,50,1917,3399885,Jan,15 ,2020,
+1110,Thursday,16,9749145,49,1917,3055675,Jan,16 ,2020,
+1111,Friday,17,46818973,48,Bad Boys for Life,23601382,Jan,17 ,2020,
+1112,Saturday,18,57594448,49,Bad Boys for Life,21716950,Jan,18 ,2020,
+1113,Sunday,19,44445163,51,Bad Boys for Life,17185773,Jan,19 ,2020,
+1114,Monday,20,34640444,56,Bad Boys for Life,10529839,Jan,20 ,2020,MLK Day
+1115,Tuesday,21,16627732,49,Bad Boys for Life,6425896,Jan,21 ,2020,
+1116,Wednesday,22,9825130,50,Bad Boys for Life,3673413,Jan,22 ,2020,
+1117,Thursday,23,9264156,49,Bad Boys for Life,3510912,Jan,23 ,2020,
+1118,Friday,24,28191638,49,Bad Boys for Life,8987723,Jan,24 ,2020,
+1119,Saturday,25,47613907,49,Bad Boys for Life,15453880,Jan,25 ,2020,
+1120,Sunday,26,29370097,48,Bad Boys for Life,9570111,Jan,26 ,2020,
+1121,Monday,27,7159640,52,Bad Boys for Life,2227287,Jan,27 ,2020,
+1122,Tuesday,28,11655746,50,Bad Boys for Life,3546220,Jan,28 ,2020,
+1123,Wednesday,29,6989955,49,Bad Boys for Life,1978354,Jan,29 ,2020,
+1124,Thursday,30,6914416,48,Bad Boys for Life,1968791,Jan,30 ,2020,
+1125,Friday,31,19449993,50,Bad Boys for Life,5185357,Jan,31 ,2020,
+1126,Saturday,32,34327451,50,Bad Boys for Life,9674093,Feb,1 ,2020,
+1127,Sunday,33,11085633,49,Bad Boys for Life,2823509,Feb,2 ,2020,
+1128,Monday,34,5263181,48,Bad Boys for Life,1507928,Feb,3 ,2020,
+1129,Tuesday,35,8578443,46,Bad Boys for Life,2284757,Feb,4 ,2020,
+1130,Wednesday,36,5350307,47,Bad Boys for Life,1330990,Feb,5 ,2020,
+1131,Thursday,37,4956835,44,Bad Boys for Life,1139042,Feb,6 ,2020,
+1132,Friday,38,24955936,45,Birds of Prey,12964681,Feb,7 ,2020,
+1133,Saturday,39,34783042,47,Birds of Prey,12193732,Feb,8 ,2020,
+1134,Sunday,40,21392865,46,Birds of Prey,7851604,Feb,9 ,2020,
+1135,Monday,41,6019469,43,Birds of Prey,2160176,Feb,10 ,2020,
+1136,Tuesday,42,9166787,45,Birds of Prey,3381368,Feb,11 ,2020,
+1137,Wednesday,43,5518611,45,Birds of Prey,1826055,Feb,12 ,2020,
+1138,Thursday,44,5542278,43,Birds of Prey,1780686,Feb,13 ,2020,
+1139,Friday,45,52807102,51,Sonic the Hedgehog,20924364,Feb,14 ,2020,
+1140,Saturday,46,49931558,51,Sonic the Hedgehog,20552625,Feb,15 ,2020,
+1141,Sunday,47,37275206,53,Sonic the Hedgehog,16541359,Feb,16 ,2020,
+1142,Monday,48,23909360,54,Sonic the Hedgehog,11983726,Feb,17 ,2020,Presidents' Day
+1143,Tuesday,49,12723158,53,Sonic the Hedgehog,5082338,Feb,18 ,2020,
+1144,Wednesday,50,7177085,53,Sonic the Hedgehog,2665678,Feb,19 ,2020,
+1145,Thursday,51,6824080,53,Sonic the Hedgehog,2551581,Feb,20 ,2020,
+1146,Friday,52,25212722,55,The Call of the Wild,8049028,Feb,21 ,2020,
+1147,Saturday,53,37850558,56,Sonic the Hedgehog,11961933,Feb,22 ,2020,
+1148,Sunday,54,23750435,56,Sonic the Hedgehog,7871248,Feb,23 ,2020,
+1149,Monday,55,5494739,55,The Call of the Wild,1707315,Feb,24 ,2020,
+1150,Tuesday,56,9552830,58,The Call of the Wild,3224918,Feb,25 ,2020,
+1151,Wednesday,57,7720801,56,My Hero Academia: Heroes Rising,2583834,Feb,26 ,2020,
+1152,Thursday,58,5570828,57,The Call of the Wild,1477710,Feb,27 ,2020,
+1153,Friday,59,24107105,55,The Invisible Man,9979880,Feb,28 ,2020,
+1154,Saturday,60,36566868,56,The Invisible Man,11195770,Feb,29 ,2020,
+1155,Sunday,61,22824096,54,The Invisible Man,7030015,Mar,1 ,2020,
+1156,Monday,62,5723972,54,The Invisible Man,2076325,Mar,2 ,2020,
+1157,Tuesday,63,9770097,53,The Invisible Man,3456185,Mar,3 ,2020,
+1158,Wednesday,64,5814048,53,The Invisible Man,1997250,Mar,4 ,2020,
+1159,Thursday,65,5173922,54,The Invisible Man,1808145,Mar,5 ,2020,
+1160,Friday,66,26596044,55,Onward,12096726,Mar,6 ,2020,
+1161,Saturday,67,39626466,55,Onward,16514193,Mar,7 ,2020,
+1162,Sunday,68,24181349,55,Onward,10508942,Mar,8 ,2020,
+1163,Monday,69,6938657,55,Onward,2509515,Mar,9 ,2020,
+1164,Tuesday,70,11097904,54,Onward,4053912,Mar,10 ,2020,
+1165,Wednesday,71,6545990,55,Onward,2202553,Mar,11 ,2020,
+1166,Thursday,72,5321431,54,Onward,1872846,Mar,12 ,2020,COVID-19 Pandemic
+1167,Friday,73,17977298,52,I Still Believe,3993234,Mar,13 ,2020,COVID-19 Pandemic
+1168,Saturday,74,19710626,50,Onward,4675724,Mar,14 ,2020,COVID-19 Pandemic
+1169,Sunday,75,11892439,51,Onward,2687350,Mar,15 ,2020,COVID-19 Pandemic
+1170,Monday,76,3234151,47,Onward,753347,Mar,16 ,2020,COVID-19 Pandemic
+1171,Tuesday,77,1321687,41,Onward,346334,Mar,17 ,2020,COVID-19 Pandemic
+1172,Wednesday,78,246568,39,Onward,61529,Mar,18 ,2020,COVID-19 Pandemic
+1173,Thursday,79,143641,37,Onward,33296,Mar,19 ,2020,COVID-19 Pandemic
+1174,Friday,80,110,1,The Gentlemen,110,Mar,20 ,2020,COVID-19 Pandemic
+1175,Saturday,81,106,1,The Gentlemen,106,Mar,21 ,2020,COVID-19 Pandemic
+1176,Sunday,82,24,1,The Gentlemen,24,Mar,22 ,2020,COVID-19 Pandemic
+1177,Monday,83,12,1,The Gentlemen,12,Mar,23 ,2020,COVID-19 Pandemic
+1178,Tuesday,84,4,1,The Gentlemen,4,Mar,24 ,2020,COVID-19 Pandemic
+1179,Wednesday,85,173,2,Be Natural: The Untold Story of Alice Guy-Blaché,173,Mar,25 ,2020,COVID-19 Pandemic
+1180,Thursday,86,24,2,Be Natural: The Untold Story of Alice Guy-Blaché,24,Mar,26 ,2020,COVID-19 Pandemic
+1181,Friday,87,192,1,Be Natural: The Untold Story of Alice Guy-Blaché,192,Mar,27 ,2020,COVID-19 Pandemic
+1182,Friday,94,471,1,The Other Lamb,471,Apr,3 ,2020,COVID-19 Pandemic
+1183,Saturday,95,582,1,The Other Lamb,582,Apr,4 ,2020,COVID-19 Pandemic
+1184,Sunday,96,141,1,The Other Lamb,141,Apr,5 ,2020,COVID-19 Pandemic
+1185,Monday,97,126,1,The Other Lamb,126,Apr,6 ,2020,COVID-19 Pandemic
+1186,Tuesday,98,174,1,The Other Lamb,174,Apr,7 ,2020,COVID-19 Pandemic
+1187,Wednesday,99,279,1,The Other Lamb,279,Apr,8 ,2020,COVID-19 Pandemic
+1188,Thursday,100,297,1,The Other Lamb,297,Apr,9 ,2020,COVID-19 Pandemic
+1189,Friday,101,1395,2,Swallow,846,Apr,10 ,2020,COVID-19 Pandemic
+1190,Saturday,102,1164,2,The Other Lamb,582,Apr,11 ,2020,COVID-19 Pandemic
+1191,Sunday,103,564,2,The Other Lamb,282,Apr,12 ,2020,COVID-19 PandemicEaster Sunday
+1192,Monday,104,552,2,The Other Lamb,276,Apr,13 ,2020,COVID-19 Pandemic
+1193,Tuesday,105,672,2,The Other Lamb,336,Apr,14 ,2020,COVID-19 Pandemic
+1194,Wednesday,106,204,2,The Other Lamb,102,Apr,15 ,2020,COVID-19 Pandemic
+1195,Thursday,107,726,2,The Other Lamb,363,Apr,16 ,2020,COVID-19 Pandemic
+1196,Friday,108,1298,3,Resistance,591,Apr,17 ,2020,COVID-19 Pandemic
+1197,Saturday,109,1967,3,Resistance,909,Apr,18 ,2020,COVID-19 Pandemic
+1198,Sunday,110,1980,2,Resistance,990,Apr,19 ,2020,COVID-19 Pandemic
+1199,Monday,111,522,2,Resistance,261,Apr,20 ,2020,COVID-19 Pandemic
+1200,Tuesday,112,1200,2,Resistance,600,Apr,21 ,2020,COVID-19 Pandemic
+1201,Wednesday,113,414,2,Resistance,207,Apr,22 ,2020,COVID-19 Pandemic
+1202,Thursday,114,1410,2,Resistance,705,Apr,23 ,2020,COVID-19 Pandemic
+1203,Friday,115,3803,2,True History of the Kelly Gang,3065,Apr,24 ,2020,COVID-19 Pandemic
+1204,Saturday,116,5804,2,True History of the Kelly Gang,4868,Apr,25 ,2020,COVID-19 Pandemic
+1205,Sunday,117,2455,2,True History of the Kelly Gang,1906,Apr,26 ,2020,COVID-19 Pandemic
+1206,Monday,118,1303,2,True History of the Kelly Gang,1042,Apr,27 ,2020,COVID-19 Pandemic
+1207,Tuesday,119,1464,2,True History of the Kelly Gang,1224,Apr,28 ,2020,COVID-19 Pandemic
+1208,Wednesday,120,1393,2,True History of the Kelly Gang,1156,Apr,29 ,2020,COVID-19 Pandemic
+1209,Thursday,121,2009,2,True History of the Kelly Gang,1769,Apr,30 ,2020,COVID-19 Pandemic
+1210,Friday,122,31712,2,The Wretched,26506,May,1 ,2020,COVID-19 Pandemic
+1211,Saturday,123,32447,2,The Wretched,26797,May,2 ,2020,COVID-19 Pandemic
+1212,Sunday,124,15331,2,The Wretched,12605,May,3 ,2020,COVID-19 Pandemic
+1213,Monday,125,7739,2,The Wretched,7152,May,4 ,2020,COVID-19 Pandemic
+1214,Tuesday,126,6448,2,The Wretched,5966,May,5 ,2020,COVID-19 Pandemic
+1215,Wednesday,127,9050,2,The Wretched,8315,May,6 ,2020,COVID-19 Pandemic
+1216,Thursday,128,8969,2,The Wretched,8345,May,7 ,2020,COVID-19 Pandemic
+1217,Friday,129,29655,4,The Wretched,24149,May,8 ,2020,COVID-19 Pandemic
+1218,Saturday,130,39563,4,The Wretched,32653,May,9 ,2020,COVID-19 Pandemic
+1219,Sunday,131,15261,4,The Wretched,12806,May,10 ,2020,COVID-19 Pandemic
+1220,Monday,132,11672,4,The Wretched,9695,May,11 ,2020,COVID-19 Pandemic
+1221,Tuesday,133,13062,3,The Wretched,11658,May,12 ,2020,COVID-19 Pandemic
+1222,Wednesday,134,15894,4,The Wretched,14043,May,13 ,2020,COVID-19 Pandemic
+1223,Thursday,135,13169,4,The Wretched,11267,May,14 ,2020,COVID-19 Pandemic
+1224,Friday,136,44498,3,The Wretched,32243,May,15 ,2020,COVID-19 Pandemic
+1225,Saturday,137,52267,3,The Wretched,38774,May,16 ,2020,COVID-19 Pandemic
+1226,Sunday,138,27383,3,The Wretched,20958,May,17 ,2020,COVID-19 Pandemic
+1227,Monday,139,15884,3,The Wretched,12625,May,18 ,2020,COVID-19 Pandemic
+1228,Tuesday,140,18916,3,The Wretched,14885,May,19 ,2020,COVID-19 Pandemic
+1229,Wednesday,141,20459,2,The Wretched,16124,May,20 ,2020,COVID-19 Pandemic
+1230,Thursday,142,17868,3,The Wretched,14401,May,21 ,2020,COVID-19 Pandemic
+1231,Friday,143,71115,3,The Wretched,70195,May,22 ,2020,COVID-19 Pandemic
+1232,Saturday,144,85161,3,The Wretched,84445,May,23 ,2020,COVID-19 Pandemic
+1233,Sunday,145,62268,3,The Wretched,61648,May,24 ,2020,COVID-19 Pandemic
+1234,Monday,146,21831,6,The Wretched,20046,May,25 ,2020,COVID-19 PandemicMemorial Day
+1235,Tuesday,147,19811,3,The Wretched,19728,May,26 ,2020,COVID-19 Pandemic
+1236,Wednesday,148,18243,3,The Wretched,18141,May,27 ,2020,COVID-19 Pandemic
+1237,Thursday,149,20549,3,The Wretched,20462,May,28 ,2020,COVID-19 Pandemic
+1238,Friday,150,63815,5,The Wretched,63514,May,29 ,2020,COVID-19 Pandemic
+1239,Saturday,151,78500,5,The Wretched,78255,May,30 ,2020,COVID-19 Pandemic
+1240,Sunday,152,34151,5,The Wretched,33868,May,31 ,2020,COVID-19 Pandemic
+1241,Monday,153,10501,5,The Wretched,10210,Jun,1 ,2020,COVID-19 Pandemic
+1242,Tuesday,154,10630,5,The Wretched,10236,Jun,2 ,2020,COVID-19 Pandemic
+1243,Wednesday,155,13322,5,The Wretched,13112,Jun,3 ,2020,COVID-19 Pandemic
+1244,Thursday,156,17655,5,The Wretched,17343,Jun,4 ,2020,COVID-19 Pandemic
+1245,Friday,157,129426,6,Becky,68854,Jun,5 ,2020,COVID-19 Pandemic
+1246,Saturday,158,175477,6,Becky,92206,Jun,6 ,2020,COVID-19 Pandemic
+1247,Sunday,159,105840,6,The Wretched,56853,Jun,7 ,2020,COVID-19 Pandemic
+1248,Monday,160,40474,6,Becky,20939,Jun,8 ,2020,COVID-19 Pandemic
+1249,Tuesday,161,48831,6,The Wretched,26601,Jun,9 ,2020,COVID-19 Pandemic
+1250,Wednesday,162,68306,7,Unsubscribe,25488,Jun,10 ,2020,COVID-19 Pandemic
+1251,Thursday,163,65804,6,The Wretched,38039,Jun,11 ,2020,COVID-19 Pandemic
+1252,Friday,164,188412,6,Becky,77077,Jun,12 ,2020,COVID-19 Pandemic
+1253,Saturday,165,222458,6,Becky,88998,Jun,13 ,2020,COVID-19 Pandemic
+1254,Sunday,166,105878,6,The Wretched,37651,Jun,14 ,2020,COVID-19 Pandemic
+1255,Monday,167,53846,6,Becky,20673,Jun,15 ,2020,COVID-19 Pandemic
+1256,Tuesday,168,62598,6,The Wretched,24505,Jun,16 ,2020,COVID-19 Pandemic
+1257,Wednesday,169,56967,6,The Wretched,28587,Jun,17 ,2020,COVID-19 Pandemic
+1258,Thursday,170,65307,6,The Wretched,24484,Jun,18 ,2020,COVID-19 Pandemic
+1259,Friday,171,165994,8,Followed,57963,Jun,19 ,2020,COVID-19 Pandemic
+1260,Saturday,172,185069,8,Followed,66232,Jun,20 ,2020,COVID-19 Pandemic
+1261,Sunday,173,81136,8,Followed,28630,Jun,21 ,2020,COVID-19 Pandemic
+1262,Monday,174,60480,8,Followed,19684,Jun,22 ,2020,COVID-19 Pandemic
+1263,Tuesday,175,69172,8,Followed,24300,Jun,23 ,2020,COVID-19 Pandemic
+1264,Wednesday,176,71652,8,Followed,26422,Jun,24 ,2020,COVID-19 Pandemic
+1265,Thursday,177,82331,8,Followed,26415,Jun,25 ,2020,COVID-19 Pandemic
+1266,Friday,178,103182,7,Becky,37294,Jun,26 ,2020,COVID-19 Pandemic
+1267,Saturday,179,79149,7,Followed,27481,Jun,27 ,2020,COVID-19 Pandemic
+1268,Sunday,180,81583,7,Becky,24434,Jun,28 ,2020,COVID-19 Pandemic
+1269,Monday,181,54011,7,Followed,19340,Jun,29 ,2020,COVID-19 Pandemic
+1270,Tuesday,182,45434,7,Followed,14449,Jun,30 ,2020,COVID-19 Pandemic
+1271,Wednesday,183,51909,7,Followed,18507,Jul,1 ,2020,COVID-19 Pandemic
+1272,Thursday,184,59761,7,Followed,19978,Jul,2 ,2020,COVID-19 Pandemic
+1273,Friday,185,137008,9,Relic,91741,Jul,3 ,2020,COVID-19 Pandemic
+1274,Saturday,186,74261,9,Relic,48259,Jul,4 ,2020,COVID-19 PandemicIndependence Day
+1275,Sunday,187,83764,9,Relic,52352,Jul,5 ,2020,COVID-19 Pandemic
+1276,Monday,188,52052,9,Relic,35049,Jul,6 ,2020,COVID-19 Pandemic
+1277,Tuesday,189,51076,9,Relic,36293,Jul,7 ,2020,COVID-19 Pandemic
+1278,Wednesday,190,53780,9,Relic,38686,Jul,8 ,2020,COVID-19 Pandemic
+1279,Thursday,191,56090,9,Relic,43016,Jul,9 ,2020,COVID-19 Pandemic
+1280,Friday,192,138808,8,Relic,71492,Jul,10 ,2020,COVID-19 Pandemic
+1281,Saturday,193,147616,8,Relic,76115,Jul,11 ,2020,COVID-19 Pandemic
+1282,Sunday,194,91330,8,Relic,48067,Jul,12 ,2020,COVID-19 Pandemic
+1283,Monday,195,45876,7,Relic,27052,Jul,13 ,2020,COVID-19 Pandemic
+1284,Tuesday,196,43358,6,Relic,27231,Jul,14 ,2020,COVID-19 Pandemic
+1285,Wednesday,197,38179,6,Relic,25210,Jul,15 ,2020,COVID-19 Pandemic
+1286,Thursday,198,41470,6,Relic,27505,Jul,16 ,2020,COVID-19 Pandemic
+1287,Friday,199,91708,7,Relic,57731,Jul,17 ,2020,COVID-19 Pandemic
+1288,Saturday,200,108064,7,Relic,68269,Jul,18 ,2020,COVID-19 Pandemic
+1289,Sunday,201,60292,7,Relic,38174,Jul,19 ,2020,COVID-19 Pandemic
+1290,Monday,202,35607,7,Relic,22862,Jul,20 ,2020,COVID-19 Pandemic
+1291,Tuesday,203,33788,6,Relic,20321,Jul,21 ,2020,COVID-19 Pandemic
+1292,Wednesday,204,38979,6,Relic,23789,Jul,22 ,2020,COVID-19 Pandemic
+1293,Thursday,205,39271,6,Relic,23180,Jul,23 ,2020,COVID-19 Pandemic
+1294,Friday,206,294330,7,The Rental,182686,Jul,24 ,2020,COVID-19 Pandemic
+1295,Saturday,207,202049,7,The Rental,122666,Jul,25 ,2020,COVID-19 Pandemic
+1296,Sunday,208,163427,7,The Rental,98500,Jul,26 ,2020,COVID-19 Pandemic
+1297,Monday,209,70939,6,The Rental,45283,Jul,27 ,2020,COVID-19 Pandemic
+1298,Tuesday,210,80466,6,The Rental,50365,Jul,28 ,2020,COVID-19 Pandemic
+1299,Wednesday,211,67572,6,The Rental,42584,Jul,29 ,2020,COVID-19 Pandemic
+1300,Thursday,212,92346,6,The Rental,56427,Jul,30 ,2020,COVID-19 Pandemic
+1301,Friday,213,204589,10,The Rental,110253,Jul,31 ,2020,COVID-19 Pandemic
+1302,Saturday,214,209239,10,The Rental,109791,Aug,1 ,2020,COVID-19 Pandemic
+1303,Sunday,215,127582,10,The Rental,70228,Aug,2 ,2020,COVID-19 Pandemic
+1304,Monday,216,56071,9,The Rental,33041,Aug,3 ,2020,COVID-19 Pandemic
+1305,Tuesday,217,64071,9,The Rental,39362,Aug,4 ,2020,COVID-19 Pandemic
+1306,Wednesday,218,69445,9,The Rental,42682,Aug,5 ,2020,COVID-19 Pandemic
+1307,Thursday,219,84275,9,The Rental,49257,Aug,6 ,2020,COVID-19 Pandemic
+1308,Friday,220,232174,13,The Tax Collector,115000,Aug,7 ,2020,COVID-19 Pandemic
+1309,Saturday,221,135117,12,The Rental,58820,Aug,8 ,2020,COVID-19 Pandemic
+1310,Sunday,222,73112,12,The Rental,30922,Aug,9 ,2020,COVID-19 Pandemic
+1311,Monday,223,39239,10,The Rental,19740,Aug,10 ,2020,COVID-19 Pandemic
+1312,Tuesday,224,42080,10,The Rental,20956,Aug,11 ,2020,COVID-19 Pandemic
+1313,Wednesday,225,44720,9,The Rental,23457,Aug,12 ,2020,COVID-19 Pandemic
+1314,Thursday,226,40751,10,The Rental,19666,Aug,13 ,2020,COVID-19 Pandemic
+1315,Friday,227,395703,13,The SpongeBob Movie: Sponge on the Run,338084,Aug,14 ,2020,COVID-19 Pandemic
+1316,Saturday,228,370529,13,The SpongeBob Movie: Sponge on the Run,295755,Aug,15 ,2020,COVID-19 Pandemic
+1317,Sunday,229,267986,13,The SpongeBob Movie: Sponge on the Run,231985,Aug,16 ,2020,COVID-19 Pandemic
+1318,Monday,230,160915,11,The SpongeBob Movie: Sponge on the Run,140830,Aug,17 ,2020,COVID-19 Pandemic
+1319,Tuesday,231,245801,11,The SpongeBob Movie: Sponge on the Run,226142,Aug,18 ,2020,COVID-19 Pandemic
+1320,Wednesday,232,155244,11,The SpongeBob Movie: Sponge on the Run,135647,Aug,19 ,2020,COVID-19 Pandemic
+1321,Thursday,233,160002,11,The SpongeBob Movie: Sponge on the Run,138558,Aug,20 ,2020,COVID-19 Pandemic
+1322,Friday,234,1883138,9,Unhinged,1414648,Aug,21 ,2020,COVID-19 Pandemic
+1323,Saturday,235,2083874,8,Unhinged,1556113,Aug,22 ,2020,COVID-19 Pandemic
+1324,Sunday,236,1361545,9,Unhinged,1030000,Aug,23 ,2020,COVID-19 Pandemic
+1325,Monday,237,457695,8,Unhinged,291202,Aug,24 ,2020,COVID-19 Pandemic
+1326,Tuesday,238,617438,8,Unhinged,371315,Aug,25 ,2020,COVID-19 Pandemic
+1327,Wednesday,239,434748,8,Unhinged,272806,Aug,26 ,2020,COVID-19 Pandemic
+1328,Thursday,240,456524,8,Unhinged,280515,Aug,27 ,2020,COVID-19 Pandemic
+1329,Friday,241,4914454,13,The New Mutants,3113501,Aug,28 ,2020,COVID-19 Pandemic
+1330,Saturday,242,4636940,12,The New Mutants,2452864,Aug,29 ,2020,COVID-19 Pandemic
+1331,Sunday,243,2765828,13,The New Mutants,1470652,Aug,30 ,2020,COVID-19 Pandemic
+1332,Monday,244,834934,11,The New Mutants,450293,Aug,31 ,2020,COVID-19 Pandemic
+1333,Tuesday,245,900031,10,The New Mutants,466916,Sep,1 ,2020,COVID-19 Pandemic
+1334,Wednesday,246,786209,10,The New Mutants,393751,Sep,2 ,2020,COVID-19 Pandemic
+1335,Thursday,247,5804575,11,Tenet,4986442,Sep,3 ,2020,COVID-19 Pandemic
+1336,Friday,248,4650134,10,Tenet,2806227,Sep,4 ,2020,COVID-19 Pandemic
+1337,Saturday,249,6161246,10,Tenet,3566279,Sep,5 ,2020,COVID-19 Pandemic
+1338,Sunday,250,5214636,10,Tenet,2980584,Sep,6 ,2020,COVID-19 Pandemic
+1339,Monday,251,3646518,13,Tenet,2275661,Sep,7 ,2020,COVID-19 PandemicLabor Day
+1340,Tuesday,252,1507231,9,Tenet,926646,Sep,8 ,2020,COVID-19 Pandemic
+1341,Wednesday,253,1348474,9,Tenet,798409,Sep,9 ,2020,COVID-19 Pandemic
+1342,Thursday,254,1310844,9,Tenet,766230,Sep,10 ,2020,COVID-19 Pandemic
+1343,Friday,255,3768135,13,Tenet,1984309,Sep,11 ,2020,COVID-19 Pandemic
+1344,Saturday,256,5575196,14,Tenet,2990971,Sep,12 ,2020,COVID-19 Pandemic
+1345,Sunday,257,2993016,13,Tenet,1628187,Sep,13 ,2020,COVID-19 Pandemic
+1346,Monday,258,1061937,13,Tenet,560801,Sep,14 ,2020,COVID-19 Pandemic
+1347,Tuesday,259,1338079,13,Tenet,694845,Sep,15 ,2020,COVID-19 Pandemic
+1348,Wednesday,260,1164614,14,Tenet,605553,Sep,16 ,2020,COVID-19 Pandemic
+1349,Thursday,261,947979,13,Tenet,575671,Sep,17 ,2020,COVID-19 Pandemic
+1350,Friday,262,3288717,17,Tenet,1404645,Sep,18 ,2020,COVID-19 Pandemic
+1351,Saturday,263,4668356,17,Tenet,2085566,Sep,19 ,2020,COVID-19 Pandemic
+1352,Sunday,264,2491638,17,Tenet,1078259,Sep,20 ,2020,COVID-19 Pandemic
+1353,Monday,265,923299,17,Tenet,405744,Sep,21 ,2020,COVID-19 Pandemic
+1354,Tuesday,266,1166869,16,Tenet,509070,Sep,22 ,2020,COVID-19 Pandemic
+1355,Wednesday,267,964078,17,Tenet,409102,Sep,23 ,2020,COVID-19 Pandemic
+1356,Thursday,268,976980,18,Tenet,427566,Sep,24 ,2020,COVID-19 Pandemic
+1357,Friday,269,2792641,24,Tenet,1054891,Sep,25 ,2020,COVID-19 Pandemic
+1358,Saturday,270,3618763,24,Tenet,1478435,Sep,26 ,2020,COVID-19 Pandemic
+1359,Sunday,271,2126402,24,Tenet,815014,Sep,27 ,2020,COVID-19 Pandemic
+1360,Monday,272,719331,23,Tenet,305051,Sep,28 ,2020,COVID-19 Pandemic
+1361,Tuesday,273,791716,23,Tenet,344118,Sep,29 ,2020,COVID-19 Pandemic
+1362,Wednesday,274,684146,23,Tenet,296594,Sep,30 ,2020,COVID-19 Pandemic
+1363,Thursday,275,743374,23,Tenet,335988,Oct,1 ,2020,COVID-19 Pandemic
+1364,Friday,276,2447709,26,Tenet,768968,Oct,2 ,2020,COVID-19 Pandemic
+1365,Saturday,277,3695766,26,Tenet,1246825,Oct,3 ,2020,COVID-19 Pandemic
+1366,Sunday,278,1965913,26,Tenet,648409,Oct,4 ,2020,COVID-19 Pandemic
+1367,Monday,279,525167,24,Tenet,228701,Oct,5 ,2020,COVID-19 Pandemic
+1368,Tuesday,280,678210,24,Tenet,292044,Oct,6 ,2020,COVID-19 Pandemic
+1369,Wednesday,281,572629,24,Tenet,260881,Oct,7 ,2020,COVID-19 Pandemic
+1370,Thursday,282,608495,23,Tenet,274162,Oct,8 ,2020,COVID-19 Pandemic
+1371,Friday,283,2902858,29,The War with Grandpa,1102100,Oct,9 ,2020,COVID-19 Pandemic
+1372,Saturday,284,4114232,30,The War with Grandpa,1563319,Oct,10 ,2020,COVID-19 Pandemic
+1373,Sunday,285,2511586,30,The War with Grandpa,958461,Oct,11 ,2020,COVID-19 Pandemic
+1374,Monday,286,947508,29,The War with Grandpa,424613,Oct,12 ,2020,COVID-19 PandemicIndig. Peoples' Day
+1375,Tuesday,287,720500,27,The War with Grandpa,306958,Oct,13 ,2020,COVID-19 Pandemic
+1376,Wednesday,288,557938,27,The War with Grandpa,193671,Oct,14 ,2020,COVID-19 Pandemic
+1377,Thursday,289,533835,27,The War with Grandpa,205210,Oct,15 ,2020,COVID-19 Pandemic
+1378,Friday,290,3819396,39,Honest Thief,1319000,Oct,16 ,2020,COVID-19 Pandemic
+1379,Saturday,291,4993067,38,Honest Thief,1472004,Oct,17 ,2020,COVID-19 Pandemic
+1380,Sunday,292,2796889,39,Honest Thief,816962,Oct,18 ,2020,COVID-19 Pandemic
+1381,Monday,293,637452,35,Honest Thief,227512,Oct,19 ,2020,COVID-19 Pandemic
+1382,Tuesday,294,878004,35,Honest Thief,340599,Oct,20 ,2020,COVID-19 Pandemic
+1383,Wednesday,295,823036,36,Honest Thief,230188,Oct,21 ,2020,COVID-19 Pandemic
+1384,Thursday,296,614627,36,Honest Thief,212620,Oct,22 ,2020,COVID-19 Pandemic
+1385,Friday,297,3045522,37,Honest Thief,718018,Oct,23 ,2020,COVID-19 Pandemic
+1386,Saturday,298,4152397,37,Honest Thief,1055487,Oct,24 ,2020,COVID-19 Pandemic
+1387,Sunday,299,2415270,37,Honest Thief,580517,Oct,25 ,2020,COVID-19 Pandemic
+1388,Monday,300,551771,33,Honest Thief,152433,Oct,26 ,2020,COVID-19 Pandemic
+1389,Tuesday,301,760595,33,Honest Thief,222149,Oct,27 ,2020,COVID-19 Pandemic
+1390,Wednesday,302,603797,31,Honest Thief,161502,Oct,28 ,2020,COVID-19 Pandemic
+1391,Thursday,303,613914,32,Honest Thief,168882,Oct,29 ,2020,COVID-19 Pandemic
+1392,Friday,304,2953670,36,Come Play,1094030,Oct,30 ,2020,COVID-19 Pandemic
+1393,Saturday,305,3477783,35,Come Play,1331245,Oct,31 ,2020,COVID-19 PandemicHalloween
+1394,Sunday,306,2290150,35,Come Play,694600,Nov,1 ,2020,COVID-19 Pandemic
+1395,Monday,307,674031,29,Come Play,251070,Nov,2 ,2020,COVID-19 Pandemic
+1396,Tuesday,308,725084,30,Come Play,223545,Nov,3 ,2020,COVID-19 Pandemic
+1397,Wednesday,309,581146,29,Come Play,177115,Nov,4 ,2020,COVID-19 Pandemic
+1398,Thursday,310,593917,31,Come Play,160220,Nov,5 ,2020,COVID-19 Pandemic
+1399,Friday,311,3467054,32,Let Him Go,1479580,Nov,6 ,2020,COVID-19 Pandemic
+1400,Saturday,312,4732289,32,Let Him Go,1620470,Nov,7 ,2020,COVID-19 Pandemic
+1401,Sunday,313,2525071,31,Let Him Go,900420,Nov,8 ,2020,COVID-19 Pandemic
+1402,Monday,314,646690,30,Let Him Go,221810,Nov,9 ,2020,COVID-19 Pandemic
+1403,Tuesday,315,963180,30,Let Him Go,359795,Nov,10 ,2020,COVID-19 Pandemic
+1404,Wednesday,316,1062259,29,Let Him Go,311155,Nov,11 ,2020,COVID-19 Pandemic
+1405,Thursday,317,616223,30,Let Him Go,194235,Nov,12 ,2020,COVID-19 Pandemic
+1406,Friday,318,3485916,30,Freaky,1486810,Nov,13 ,2020,COVID-19 Pandemic
+1407,Saturday,319,4536693,29,Freaky,1397115,Nov,14 ,2020,COVID-19 Pandemic
+1408,Sunday,320,2332485,29,Freaky,716430,Nov,15 ,2020,COVID-19 Pandemic
+1409,Monday,321,652469,23,Freaky,209880,Nov,16 ,2020,COVID-19 Pandemic
+1410,Tuesday,322,726133,23,Freaky,242345,Nov,17 ,2020,COVID-19 Pandemic
+1411,Wednesday,323,509806,23,Freaky,165890,Nov,18 ,2020,COVID-19 Pandemic
+1412,Thursday,324,495088,23,Freaky,153825,Nov,19 ,2020,COVID-19 Pandemic
+1413,Friday,325,1652573,27,Freaky,407445,Nov,20 ,2020,COVID-19 Pandemic
+1414,Saturday,326,2403430,27,Freaky,567445,Nov,21 ,2020,COVID-19 Pandemic
+1415,Sunday,327,1337629,27,Freaky,306260,Nov,22 ,2020,COVID-19 Pandemic
+1416,Monday,328,457926,22,Freaky,119060,Nov,23 ,2020,COVID-19 Pandemic
+1417,Tuesday,329,602537,21,Freaky,146675,Nov,24 ,2020,COVID-19 Pandemic
+1418,Wednesday,330,2448042,33,The Croods: A New Age,1880615,Nov,25 ,2020,COVID-19 Pandemic
+1419,Thursday,331,3418542,28,The Croods: A New Age,2669640,Nov,26 ,2020,COVID-19 PandemicThanksgiving
+1420,Friday,332,5179533,28,The Croods: A New Age,3907655,Nov,27 ,2020,COVID-19 Pandemic
+1421,Saturday,333,5067022,28,The Croods: A New Age,3614945,Nov,28 ,2020,COVID-19 Pandemic
+1422,Sunday,334,2983792,27,The Croods: A New Age,2201600,Nov,29 ,2020,COVID-19 Pandemic
+1423,Monday,335,633019,20,The Croods: A New Age,440325,Nov,30 ,2020,COVID-19 Pandemic
+1424,Tuesday,336,762119,19,The Croods: A New Age,512065,Dec,1 ,2020,COVID-19 Pandemic
+1425,Wednesday,337,535950,20,The Croods: A New Age,332730,Dec,2 ,2020,COVID-19 Pandemic
+1426,Thursday,338,540311,20,The Croods: A New Age,340835,Dec,3 ,2020,COVID-19 Pandemic
+1427,Friday,339,2087988,27,The Croods: A New Age,1145745,Dec,4 ,2020,COVID-19 Pandemic
+1428,Saturday,340,3388787,27,The Croods: A New Age,2053380,Dec,5 ,2020,COVID-19 Pandemic
+1429,Sunday,341,1958290,27,The Croods: A New Age,1240730,Dec,6 ,2020,COVID-19 Pandemic
+1430,Monday,342,376179,21,The Croods: A New Age,190220,Dec,7 ,2020,COVID-19 Pandemic
+1431,Tuesday,343,527922,20,The Croods: A New Age,279625,Dec,8 ,2020,COVID-19 Pandemic
+1432,Wednesday,344,398932,19,The Croods: A New Age,209880,Dec,9 ,2020,COVID-19 Pandemic
+1433,Thursday,345,430841,18,The Croods: A New Age,230115,Dec,10 ,2020,COVID-19 Pandemic
+1434,Friday,346,1544909,25,The Croods: A New Age,777565,Dec,11 ,2020,COVID-19 Pandemic
+1435,Saturday,347,2565080,25,The Croods: A New Age,1435040,Dec,12 ,2020,COVID-19 Pandemic
+1436,Sunday,348,1494353,25,The Croods: A New Age,847930,Dec,13 ,2020,COVID-19 Pandemic
+1437,Monday,349,293095,15,The Croods: A New Age,150370,Dec,14 ,2020,COVID-19 Pandemic
+1438,Tuesday,350,407983,16,The Croods: A New Age,217325,Dec,15 ,2020,COVID-19 Pandemic
+1439,Wednesday,351,321048,16,The Croods: A New Age,170225,Dec,16 ,2020,COVID-19 Pandemic
+1440,Thursday,352,319712,16,The Croods: A New Age,180710,Dec,17 ,2020,COVID-19 Pandemic
+1441,Friday,353,2188535,27,Monster Hunter,824964,Dec,18 ,2020,COVID-19 Pandemic
+1442,Saturday,354,2703842,27,The Croods: A New Age,884055,Dec,19 ,2020,COVID-19 Pandemic
+1443,Sunday,355,1873323,25,The Croods: A New Age,647765,Dec,20 ,2020,COVID-19 Pandemic
+1444,Monday,356,773974,17,The Croods: A New Age,323075,Dec,21 ,2020,COVID-19 Pandemic
+1445,Tuesday,357,944706,17,The Croods: A New Age,420110,Dec,22 ,2020,COVID-19 Pandemic
+1446,Wednesday,358,930994,17,The Croods: A New Age,416835,Dec,23 ,2020,COVID-19 Pandemic
+1447,Thursday,359,782482,15,The Croods: A New Age,348215,Dec,24 ,2020,COVID-19 Pandemic
+1448,Friday,360,10074446,27,Wonder Woman 1984,7482427,Dec,25 ,2020,COVID-19 PandemicChristmas Day
+1449,Saturday,361,8403557,27,Wonder Woman 1984,5811188,Dec,26 ,2020,COVID-19 Pandemic
+1450,Sunday,362,5302360,27,Wonder Woman 1984,3408342,Dec,27 ,2020,COVID-19 Pandemic
+1451,Monday,363,3085353,17,Wonder Woman 1984,1822877,Dec,28 ,2020,COVID-19 Pandemic
+1452,Tuesday,364,3063773,17,Wonder Woman 1984,1655240,Dec,29 ,2020,COVID-19 Pandemic
+1453,Wednesday,365,2876460,16,Wonder Woman 1984,1451131,Dec,30 ,2020,COVID-19 Pandemic
+1454,Thursday,366,2915033,17,Wonder Woman 1984,1378106,Dec,31 ,2020,COVID-19 PandemicNew Year's Eve
