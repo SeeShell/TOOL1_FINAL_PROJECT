@@ -1,0 +1,342 @@
+year,month,top_release,genre,top_gross,top_10_gross_total,releases,total_top_days
+2014,Apr,Captain America: The Winter Soldier,"Action, Adventure, Sci-Fi",169455209,391303381,46.642857142857146,14
+2014,Apr,Heaven Is for Real,"Biography, Drama, Family",14406229,61947948,48.25,4
+2014,Apr,Noah,"Action, Adventure, Drama",8515307,26109474,43.0,3
+2014,Apr,Rio 2,"Animation, Adventure, Comedy",26533097,89796834,47.666666666666664,3
+2014,Apr,The Other Woman,"Comedy, Romance",31278335,119587235,48.833333333333336,6
+2014,Aug,Guardians of the Galaxy,"Action, Adventure, Comedy",178779019,461275648,54.1578947368421,19
+2014,Aug,If I Stay,"Drama, Fantasy, Music",6827007,31656738,50.0,1
+2014,Aug,Let's Be Cops,"Action, Comedy, Crime",5205858,21110555,53.0,1
+2014,Aug,Teenage Mutant Ninja Turtles,"Action, Adventure, Comedy",116169434,369777662,54.4,10
+2014,Dec,Exodus: Gods and Kings,"Action, Drama, Fantasy",28297853,87069122,44.4,5
+2014,Dec,The Hobbit: The Battle of the Five Armies,"Adventure, Fantasy",176419308,515434066,45.714285714285715,14
+2014,Dec,The Hunger Games: Mockingjay - Part 1,"Action, Adventure, Sci-Fi",38517345,116461737,47.54545454545455,11
+2014,Dec,Unbroken,"Biography, Drama, Sport",15434400,70818446,49.0,1
+2014,Feb,About Last Night,"Comedy, Romance",12871109,56447069,48.0,1
+2014,Feb,Frozen,"Animation, Adventure, Comedy",2119450,10701780,45.0,1
+2014,Feb,Non-Stop,"Action, Mystery, Thriller",10057535,31810831,53.0,1
+2014,Feb,Ride Along,"Action, Comedy, Crime",9485870,53357349,45.0,5
+2014,Feb,RoboCop,"Action, Crime, Sci-Fi",2808698,8476707,50.0,1
+2014,Feb,The Lego Movie,"Animation, Action, Adventure",173325186,426962833,49.421052631578945,19
+2014,Jan,Frozen,"Animation, Adventure, Comedy",28575637,159891223,46.6,5
+2014,Jan,Lone Survivor,"Action, Biography, Drama",50428560,151081382,41.142857142857146,7
+2014,Jan,Paranormal Activity: The Marked Ones,"Horror, Mystery, Thriller",8722144,42939384,45.0,1
+2014,Jan,Ride Along,"Action, Comedy, Crime",84673785,345494937,42.333333333333336,15
+2014,Jan,The Wolf of Wall Street,"Biography, Crime, Drama",5068111,30690896,45.0,3
+2014,Jul,Dawn of the Planet of the Apes,"Action, Adventure, Drama",145267862,346839321,43.46153846153846,13
+2014,Jul,Lucy,"Action, Sci-Fi, Thriller",61287385,192734597,51.0,7
+2014,Jul,The Purge: Anarchy,"Action, Adventure, Horror",13006545,45048634,45.0,1
+2014,Jul,Transformers: Age of Extinction,"Action, Adventure, Sci-Fi",81988634,255619325,43.0,10
+2014,Jun,22 Jump Street,"Action, Comedy, Crime",95489889,337825759,45.9,10
+2014,Jun,How to Train Your Dragon 2,"Animation, Action, Adventure",20354892,78462485,45.333333333333336,3
+2014,Jun,Maleficent,"Action, Adventure, Family",67937262,196788787,43.285714285714285,7
+2014,Jun,The Fault in Our Stars,"Drama, Romance",44034790,126380255,44.8,5
+2014,Jun,Think Like a Man Too,"Comedy, Romance",12180056,46829984,45.0,1
+2014,Jun,Transformers: Age of Extinction,"Action, Adventure, Sci-Fi",110542664,192389001,43.75,4
+2014,Mar,300: Rise of an Empire,"Action, Drama",65886774,200036131,49.36363636363637,11
+2014,Mar,Divergent,"Action, Adventure, Mystery",68760008,170823150,47.714285714285715,7
+2014,Mar,Mr. Peabody & Sherman,"Animation, Adventure, Comedy",16354688,68609582,52.5,2
+2014,Mar,Need for Speed,"Action, Crime, Thriller",6662415,30495947,52.0,1
+2014,Mar,Noah,"Action, Adventure, Drama",46825854,133691873,46.0,4
+2014,Mar,Non-Stop,"Action, Mystery, Thriller",20269640,74236295,51.0,5
+2014,Mar,Son of God,"Biography, Drama, History",6797385,26664927,54.0,1
+2014,May,Godzilla,"Action, Adventure, Sci-Fi",117348367,216442291,44.285714285714285,7
+2014,May,Maleficent,"Action, Adventure, Family",50048100,114282122,44.0,2
+2014,May,Neighbors,Comedy,65525205,161147477,46.285714285714285,7
+2014,May,The Amazing Spider-Man 2,"Action, Adventure, Sci-Fi",110700722,176023096,47.142857142857146,7
+2014,May,The Other Woman,"Comedy, Romance",1867137,6013774,49.0,1
+2014,May,X-Men: Days of Future Past,"Action, Adventure, Sci-Fi",129469103,256416763,46.0,7
+2014,Nov,Big Hero 6,"Animation, Action, Adventure",77594322,209279903,52.4,5
+2014,Nov,Fury,"Action, Crime, Drama",820269,5875057,52.0,1
+2014,Nov,Fury,"Action, Drama, War",820269,5875057,52.0,1
+2014,Nov,Interstellar,"Adventure, Drama, Sci-Fi",38943476,111158508,51.888888888888886,9
+2014,Nov,Nightcrawler,"Crime, Drama, Thriller",2186280,14572554,51.0,2
+2014,Nov,Ouija,"Horror, Mystery, Thriller",5000775,36887533,53.0,1
+2014,Nov,The Book of Life,"Animation, Adventure, Comedy",2965994,20430279,53.0,1
+2014,Nov,The Hunger Games: Mockingjay - Part 1,"Action, Adventure, Sci-Fi",225680904,435969406,48.1,10
+2014,Oct,Annabelle,"Horror, Mystery, Thriller",15453016,46405985,58.0,1
+2014,Oct,Dracula Untold,"Action, Drama, Fantasy",8920830,42818136,61.0,1
+2014,Oct,Fury,"Action, Crime, Drama",34157911,157092015,53.875,8
+2014,Oct,Fury,"Action, Drama, War",34157911,157092015,53.875,8
+2014,Oct,Gone Girl,"Drama, Mystery, Thriller",67951106,265722276,57.416666666666664,12
+2014,Oct,John Wick,"Action, Crime, Thriller",4066927,22597320,50.666666666666664,3
+2014,Oct,Ouija,"Horror, Mystery, Thriller",23312615,114624795,52.5,4
+2014,Oct,The Equalizer,"Action, Crime, Thriller",4746785,11577504,55.5,2
+2014,Sep,Guardians of the Galaxy,"Action, Adventure, Comedy",22505302,103418340,51.27272727272727,11
+2014,Sep,No Good Deed,"Action, Crime, Drama",29908052,91875055,54.57142857142857,7
+2014,Sep,The Equalizer,"Action, Crime, Thriller",40739831,110988676,55.2,5
+2014,Sep,The Maze Runner,"Action, Mystery, Sci-Fi",40518327,114782765,55.42857142857143,7
+2015,Apr,Home,"Animation, Adventure, Comedy",7914903,23097544,43.0,2
+2015,Apr,The Age of Adaline,"Drama, Fantasy, Romance",5795794,28051866,53.5,2
+2015,Aug,Fantastic Four,"Action, Adventure, Sci-Fi",11282868,37877853,43.0,1
+2015,Aug,Mission: Impossible - Rogue Nation,"Action, Adventure, Thriller",92665003,294345450,42.25,12
+2015,Aug,Straight Outta Compton,"Biography, Drama, History",131490425,358242853,43.64705882352941,17
+2015,Aug,War Room,Drama,4048820,18808621,46.0,1
+2015,Dec,In the Heart of the Sea,"Action, Adventure, Biography",6265237,32194031,46.666666666666664,3
+2015,Dec,Krampus,"Comedy, Drama, Fantasy",6021050,25784262,46.0,1
+2015,Dec,Star Wars: Episode VII - The Force Awakens,"Action, Adventure, Sci-Fi",651967269,978015716,46.714285714285715,14
+2015,Dec,The Good Dinosaur,"Animation, Adventure, Comedy",3160217,18189664,46.0,1
+2015,Dec,The Hunger Games: Mockingjay - Part 2,"Action, Adventure, Sci-Fi",33362186,152423167,45.25,12
+2015,Feb,American Sniper,"Action, Biography, Drama",16060234,44938624,52.833333333333336,6
+2015,Feb,Fifty Shades of Grey,"Drama, Romance, Thriller",123770785,342063008,47.666666666666664,12
+2015,Feb,Focus,"Comedy, Crime, Drama",14086249,66796050,46.5,2
+2015,Feb,The SpongeBob Movie: Sponge Out of Water,"Animation, Action, Adventure",75581710,212726918,50.5,8
+2015,Jan,American Sniper,"Action, Biography, Drama",240083387,502496412,50.5,16
+2015,Jan,Taken 3,"Action, Thriller",48786917,135151427,48.42857142857143,7
+2015,Jan,The Hobbit: The Battle of the Five Armies,"Adventure, Fantasy",37533161,205293386,47.125,8
+2015,Jul,Ant-Man,"Action, Adventure, Comedy",69409555,263249703,38.857142857142854,7
+2015,Jul,Inside Out,"Animation, Adventure, Comedy",49984824,204610942,39.142857142857146,7
+2015,Jul,Jurassic World,"Action, Adventure, Sci-Fi",8539045,35192188,39.0,1
+2015,Jul,Magic Mike XXL,"Comedy, Drama, Music",9306397,38080373,42.0,1
+2015,Jul,Minions,"Animation, Adventure, Comedy",207507680,447863183,39.5,12
+2015,Jul,Mission: Impossible - Rogue Nation,"Action, Adventure, Thriller",20301126,44551346,42.0,1
+2015,Jul,Pixels,"Action, Comedy, Fantasy",9110510,46763122,39.0,1
+2015,Jul,Vacation,"Adventure, Comedy",3821231,19329783,42.0,1
+2015,Jun,Entourage,Comedy,5372395,16131089,42.0,1
+2015,Jun,Inside Out,"Animation, Adventure, Comedy",74434583,198454989,39.2,5
+2015,Jun,Insidious: Chapter 3,"Horror, Mystery, Thriller",10461496,43094745,42.0,1
+2015,Jun,Jurassic World,"Action, Adventure, Sci-Fi",447662245,748117863,42.07142857142857,14
+2015,Jun,San Andreas,"Action, Adventure, Drama",14099742,39347571,41.0,3
+2015,Jun,Spy,"Action, Comedy, Crime",30636284,129879487,42.666666666666664,6
+2015,Mar,Chappie,"Action, Crime, Drama",16803591,92464426,45.5,6
+2015,Mar,Cinderella,"Drama, Family, Fantasy",87549134,154187373,48.42857142857143,7
+2015,Mar,Focus,"Comedy, Crime, Drama",10467247,47584209,45.8,5
+2015,Mar,Home,"Animation, Adventure, Comedy",60315191,164769754,40.6,5
+2015,Mar,The Divergent Series: Insurgent,"Action, Adventure, Sci-Fi",64318823,151159984,43.285714285714285,7
+2015,Mar,The Second Best Exotic Marigold Hotel,"Comedy, Drama",842828,5635527,44.0,1
+2015,May,Avengers: Age of Ultron,"Action, Adventure, Sci-Fi",333170808,431820657,46.142857142857146,14
+2015,May,Mad Max: Fury Road,"Action, Adventure, Sci-Fi",16834323,61371745,43.8,5
+2015,May,Pitch Perfect 2,"Comedy, Music",78404700,202777012,45.8,5
+2015,May,San Andreas,"Action, Adventure, Drama",54588173,131172726,39.666666666666664,3
+2015,May,Tomorrowland,"Action, Adventure, Family",42679200,182330965,50.25,4
+2015,Nov,Spectre,"Action, Adventure, Thriller",139102879,320817680,43.57142857142857,14
+2015,Nov,The Hunger Games: Mockingjay - Part 2,"Action, Adventure, Sci-Fi",201091347,445928433,43.63636363636363,11
+2015,Nov,The Martian,"Adventure, Drama, Sci-Fi",8320689,39097523,39.4,5
+2015,Oct,Goosebumps,"Adventure, Comedy, Family",28146193,132235849,41.0,4
+2015,Oct,Hotel Transylvania 2,"Animation, Comedy, Family",1787821,7023605,49.0,1
+2015,Oct,The Martian,"Adventure, Drama, Sci-Fi",152457853,484193001,45.36,25
+2015,Sep,A Walk in the Woods,"Adventure, Biography, Comedy",1169000,6190791,47.0,1
+2015,Sep,Black Mass,"Biography, Crime, Drama",8463142,30491248,52.5,4
+2015,Sep,Hotel Transylvania 2,"Animation, Comedy, Family",55753944,154012444,48.833333333333336,6
+2015,Sep,Maze Runner: The Scorch Trials,"Action, Adventure, Sci-Fi",30316510,96258626,53.333333333333336,3
+2015,Sep,Straight Outta Compton,"Biography, Drama, History",2496630,13203381,47.0,2
+2015,Sep,The Perfect Guy,"Crime, Drama, Horror",15733703,50972178,51.6,5
+2015,Sep,The Transporter Refueled,"Action, Adventure, Thriller",2438210,15469217,47.0,1
+2015,Sep,The Visit,"Horror, Mystery, Thriller",16220450,53962822,53.5,2
+2015,Sep,War Room,Drama,14145431,76957631,47.0,6
+2016,Apr,Batman v Superman: Dawn of Justice,"Action, Adventure, Sci-Fi",81469227,218106226,50.77777777777778,9
+2016,Apr,The Boss,Comedy,14694490,51194716,45.6,5
+2016,Apr,The Jungle Book,"Adventure, Drama, Family",239552098,432196312,43.1875,16
+2016,Aug,Don't Breathe,"Crime, Horror, Thriller",33592654,118446847,58.0,6
+2016,Aug,Jason Bourne,"Action, Thriller",21490655,85512804,49.0,4
+2016,Aug,Sausage Party,"Animation, Adventure, Comedy",13510615,49619427,54.0,1
+2016,Aug,Suicide Squad,"Action, Adventure, Fantasy",257668833,646279986,51.65,20
+2016,Dec,Moana,"Animation, Adventure, Comedy",52209949,171951015,52.0,11
+2016,Dec,Office Christmas Party,Comedy,11423669,41202828,49.75,4
+2016,Dec,Rogue One: A Star Wars Story,"Action, Adventure, Sci-Fi",408235850,874596436,50.25,16
+2016,Feb,Deadpool,"Action, Adventure, Comedy",287585111,552017767,50.94444444444444,18
+2016,Feb,Kung Fu Panda 3,"Animation, Action, Adventure",32980345,127301486,46.90909090909091,11
+2016,Jan,Kung Fu Panda 3,"Animation, Action, Adventure",41282042,118353833,49.333333333333336,3
+2016,Jan,Ride Along 2,"Action, Comedy, Crime",35243095,145502232,43.333333333333336,3
+2016,Jan,Star Wars: Episode VII - The Force Awakens,"Action, Adventure, Sci-Fi",160430066,412689998,46.72727272727273,11
+2016,Jan,The Revenant,"Action, Adventure, Drama",57587288,229770892,44.57142857142857,14
+2016,Jul,Finding Dory,"Animation, Adventure, Comedy",58334993,227833905,48.0,6
+2016,Jul,Ghostbusters,"Action, Comedy, Fantasy",17129166,48540690,49.0,1
+2016,Jul,Jason Bourne,"Action, Thriller",59215365,174875574,48.333333333333336,3
+2016,Jul,Star Trek Beyond,"Action, Adventure, Sci-Fi",81720378,270904595,48.57142857142857,7
+2016,Jul,The Purge: Election Year,"Action, Horror, Sci-Fi",14513360,63915781,44.0,1
+2016,Jul,The Secret Life of Pets,"Animation, Adventure, Comedy",216179850,487618936,48.69230769230769,13
+2016,Jun,Finding Dory,"Animation, Adventure, Comedy",330349602,618336620,43.0,14
+2016,Jun,Teenage Mutant Ninja Turtles: Out of the Shadows,"Action, Adventure, Comedy",46239783,174025876,43.714285714285715,7
+2016,Jun,The Conjuring 2,"Horror, Mystery, Thriller",56175086,198378168,45.57142857142857,7
+2016,Jun,X-Men: Apocalypse,"Action, Adventure, Sci-Fi",7848892,22846191,44.0,2
+2016,Mar,Allegiant,"Action, Adventure, Mystery",11935887,35563719,52.0,1
+2016,Mar,Batman v Superman: Dawn of Justice,"Action, Adventure, Sci-Fi",209072793,325839103,53.0,7
+2016,Mar,Deadpool,"Action, Adventure, Comedy",7173021,21148750,49.0,3
+2016,Mar,Zootopia,"Animation, Adventure, Comedy",207815244,472903083,50.85,20
+2016,May,Captain America: Civil War,"Action, Adventure, Sci-Fi",324536209,490062917,45.94444444444444,18
+2016,May,The Jungle Book,"Adventure, Drama, Family",23560167,52385064,44.2,5
+2016,May,X-Men: Apocalypse,"Action, Adventure, Sci-Fi",86324340,213529343,45.4,5
+2016,Nov,Doctor Strange,"Action, Adventure, Fantasy",163866877,417619671,53.07142857142857,14
+2016,Nov,Fantastic Beasts and Where to Find Them,"Adventure, Family, Fantasy",90463123,181043969,51.2,5
+2016,Nov,Inferno,"Action, Adventure, Crime",3557940,17648055,62.333333333333336,3
+2016,Nov,Moana,"Animation, Adventure, Comedy",89583410,271740484,51.875,8
+2016,Oct,Deepwater Horizon,"Action, Drama, History",2756980,12829194,67.0,2
+2016,Oct,Inferno,"Action, Adventure, Crime",5575613,22673471,64.0,1
+2016,Oct,Jack Reacher: Never Go Back,"Action, Thriller",7256687,32586885,70.25,4
+2016,Oct,Miss Peregrine's Home for Peculiar Children,"Adventure, Drama, Family",24355780,89119258,65.25,4
+2016,Oct,The Accountant,"Action, Crime, Drama",33895381,113024865,70.28571428571429,7
+2016,Oct,The Girl on the Train,"Crime, Drama, Mystery",34583595,131410972,65.14285714285714,7
+2016,Sep,Don't Breathe,"Crime, Horror, Thriller",25030504,108021387,56.375,8
+2016,Sep,Miss Peregrine's Home for Peculiar Children,"Adventure, Drama, Family",9041770,31278723,67.0,1
+2016,Sep,Sully,"Biography, Drama",78563447,203668955,62.857142857142854,14
+2016,Sep,The Magnificent Seven,"Action, Adventure, Western",45905901,120950276,65.14285714285714,7
+2017,Apr,Beauty and the Beast,"Family, Fantasy, Musical",13956449,49102830,47.75,4
+2017,Apr,The Boss Baby,"Animation, Adventure, Comedy",72285666,263079241,53.333333333333336,9
+2017,Apr,The Fate of the Furious,"Action, Adventure, Crime",193268115,408041564,53.05882352941177,17
+2017,Aug,Annabelle: Creation,"Horror, Mystery, Thriller",48544221,139713151,55.857142857142854,7
+2017,Aug,Dunkirk,"Action, Drama, History",32678942,177663835,51.44444444444444,9
+2017,Aug,The Dark Tower,"Action, Adventure, Fantasy",7724436,35030846,52.0,1
+2017,Aug,The Hitman's Bodyguard,"Action, Comedy, Crime",44694214,177947581,53.07142857142857,14
+2017,Dec,Coco,"Animation, Adventure, Family",58210492,224136357,57.285714285714285,14
+2017,Dec,Star Wars: Episode VIII - The Last Jedi,"Action, Adventure, Fantasy",517218368,987381840,44.94117647058823,17
+2017,Feb,A Dog's Purpose,"Adventure, Comedy, Drama",2172390,13226004,50.0,1
+2017,Feb,Fifty Shades Darker,"Drama, Romance",43534175,122197266,47.2,5
+2017,Feb,Get Out,"Horror, Mystery, Thriller",42433805,125196706,51.4,5
+2017,Feb,Hidden Figures,"Biography, Drama, History",910127,4738816,48.0,1
+2017,Feb,Is Genesis History?,Documentary,1796182,10103376,49.0,1
+2017,Feb,Rings,"Drama, Horror, Mystery",5631820,24572660,49.0,1
+2017,Feb,Split,"Horror, Thriller",14058040,70525628,48.166666666666664,6
+2017,Feb,The Lego Batman Movie,"Animation, Action, Comedy",86157012,292813675,49.375,8
+2017,Jan,Hidden Figures,"Biography, Drama, History",49855850,256428353,45.833333333333336,12
+2017,Jan,Rogue One: A Star Wars Story,"Action, Adventure, Sci-Fi",63044100,251781322,48.857142857142854,7
+2017,Jan,Split,"Horror, Thriller",81127805,288149945,47.25,12
+2017,Jul,Despicable Me 3,"Animation, Adventure, Comedy",86185320,204392236,52.166666666666664,6
+2017,Jul,Dunkirk,"Action, Drama, History",96743351,366599868,52.1,10
+2017,Jul,Spider-Man: Homecoming,"Action, Adventure, Sci-Fi",180040772,347536172,51.7,10
+2017,Jul,The Emoji Movie,"Animation, Adventure, Comedy",10025217,44616620,52.0,1
+2017,Jul,War for the Planet of the Apes,"Action, Adventure, Drama",62050285,174553628,51.75,4
+2017,Jun,Baby Driver,"Action, Crime, Drama",9029105,33060579,49.5,2
+2017,Jun,Cars 3,"Animation, Adventure, Comedy",65937997,220975126,49.6,5
+2017,Jun,Despicable Me 3,"Animation, Adventure, Comedy",29005340,54738724,51.0,1
+2017,Jun,Pirates of the Caribbean: Dead Men Tell No Tales,"Action, Adventure, Fantasy",3435067,8948184,45.0,1
+2017,Jun,Transformers: The Last Knight,"Action, Adventure, Sci-Fi",78868996,218736562,49.857142857142854,7
+2017,Jun,Wonder Woman,"Action, Adventure, Fantasy",233826730,457780774,48.285714285714285,14
+2017,Mar,Beauty and the Beast,"Family, Fantasy, Musical",347916842,591289770,49.07142857142857,14
+2017,Mar,Get Out,"Horror, Mystery, Thriller",7409835,16654014,53.0,2
+2017,Mar,Kong: Skull Island,"Action, Adventure, Fantasy",81275294,205708078,51.857142857142854,7
+2017,Mar,Logan,"Action, Drama, Sci-Fi",114806733,223558297,59.0,7
+2017,Mar,The Boss Baby,"Animation, Adventure, Comedy",15621148,49822179,50.0,1
+2017,May,Alien: Covenant,"Horror, Sci-Fi, Thriller",15301274,37620803,54.0,1
+2017,May,Baywatch,"Action, Comedy, Crime",4606514,12018919,56.0,1
+2017,May,Guardians of the Galaxy Vol. 2,"Action, Adventure, Comedy",302195069,503537281,52.473684210526315,19
+2017,May,Pirates of the Caribbean: Dead Men Tell No Tales,"Action, Adventure, Fantasy",89573704,196062697,47.5,6
+2017,May,The Fate of the Furious,"Action, Adventure, Crime",5339415,22381776,51.0,4
+2017,Nov,A Bad Moms Christmas,Comedy,4526106,11611003,60.5,2
+2017,Nov,Coco,"Animation, Adventure, Family",82575404,296720831,58.333333333333336,9
+2017,Nov,Justice League,"Action, Adventure, Fantasy",111901643,240001990,59.2,5
+2017,Nov,Thor: Ragnarok,"Action, Adventure, Comedy",225596170,389242735,59.57142857142857,14
+2017,Oct,American Made,"Action, Biography, Comedy",5595570,24694657,62.0,4
+2017,Oct,Blade Runner 2049,"Action, Drama, Mystery",51357959,162985388,64.0909090909091,11
+2017,Oct,Boo 2! A Madea Halloween,"Comedy, Drama, Horror",25521643,101299604,63.857142857142854,7
+2017,Oct,Happy Death Day,"Horror, Mystery, Thriller",26039025,88934459,63.0,3
+2017,Oct,Jigsaw,"Horror, Mystery",20263905,70413474,59.4,5
+2017,Oct,Kingsman: The Golden Circle,"Action, Adventure, Comedy",4480023,20543100,60.0,1
+2017,Sep,American Made,"Action, Biography, Comedy",6168025,24363397,61.0,1
+2017,Sep,It,Horror,244150554,368945255,59.53333333333333,15
+2017,Sep,Kingsman: The Golden Circle,"Action, Adventure, Comedy",49701588,140135562,61.42857142857143,7
+2017,Sep,The Hitman's Bodyguard,"Action, Comedy, Crime",15352793,71202837,63.57142857142857,7
+2018,Apr,A Quiet Place,"Drama, Horror, Sci-Fi",89861764,287464839,53.4,15
+2018,Apr,Avengers: Infinity War,"Action, Adventure, Sci-Fi",282438300,331843685,54.75,4
+2018,Apr,Rampage,"Action, Adventure, Sci-Fi",45169578,171262024,56.0,5
+2018,Apr,Ready Player One,"Action, Adventure, Sci-Fi",29309019,85630802,56.8,5
+2018,Apr,Super Troopers 2,"Comedy, Crime, Mystery",7945555,36277334,57.0,1
+2018,Aug,Crazy Rich Asians,"Comedy, Drama, Romance",94563979,336270083,55.294117647058826,17
+2018,Aug,Mission: Impossible - Fallout,"Action, Adventure, Thriller",64440649,221396990,54.22222222222222,9
+2018,Aug,The Meg,"Action, Horror, Sci-Fi",55991314,162035391,48.2,5
+2018,Dec,Aquaman,"Action, Adventure, Fantasy",194359824,575221021,51.90909090909091,11
+2018,Dec,Creed II,"Drama, Sport",1107634,7043951,54.0,1
+2018,Dec,Mary Poppins Returns,"Comedy, Family, Fantasy",8814671,28305777,61.5,2
+2018,Dec,Ralph Breaks the Internet,"Animation, Adventure, Comedy",40582449,177512963,56.875,8
+2018,Dec,Spider-Man: Into the Spider-Verse,"Animation, Action, Adventure",42430302,128707863,61.4,5
+2018,Dec,The Grinch,"Animation, Comedy, Family",4385485,25817771,62.5,4
+2018,Feb,Black Panther,"Action, Adventure, Sci-Fi",428792346,608364018,59.30769230769231,13
+2018,Feb,Fifty Shades Freed,"Drama, Romance, Thriller",51674665,131640058,51.5,6
+2018,Feb,Jumanji: Welcome to the Jungle,"Action, Adventure, Comedy",10300864,61721776,47.6,5
+2018,Feb,Maze Runner: The Death Cure,"Action, Adventure, Sci-Fi",2062111,14250087,48.0,2
+2018,Feb,Peter Rabbit,"Adventure, Comedy, Family",8062715,30053992,54.0,1
+2018,Feb,Winchester,"Biography, Drama, Fantasy",3622125,20168149,46.0,1
+2018,Jan,12 Strong,"Action, Drama, History",7459424,42294905,49.0,2
+2018,Jan,Den of Thieves,"Action, Crime, Drama",1304937,7822169,49.0,1
+2018,Jan,Insidious: The Last Key,"Horror, Mystery, Thriller",12723575,46427974,45.0,1
+2018,Jan,Jumanji: Welcome to the Jungle,"Action, Adventure, Comedy",130269724,523133832,47.55555555555556,18
+2018,Jan,Maze Runner: The Death Cure,"Action, Adventure, Sci-Fi",28525233,126549708,49.666666666666664,6
+2018,Jan,The Post,"Drama, Thriller",4052621,24734979,47.666666666666664,3
+2018,Jul,Ant-Man and the Wasp,"Action, Adventure, Comedy",103985225,258637337,48.857142857142854,7
+2018,Jul,Hotel Transylvania 3: Summer Vacation,"Animation, Adventure, Comedy",66662884,235108274,49.57142857142857,7
+2018,Jul,Incredibles 2,"Animation, Action, Adventure",7171034,25257863,55.0,1
+2018,Jul,Jurassic World: Fallen Kingdom,"Action, Adventure, Sci-Fi",51679670,150298888,54.25,4
+2018,Jul,Mamma Mia! Here We Go Again,"Comedy, Musical, Romance",34759160,139682749,50.8,5
+2018,Jul,Mission: Impossible - Fallout,"Action, Adventure, Thriller",77526635,189028687,48.8,5
+2018,Jul,The Equalizer 2,"Action, Crime, Thriller",22635790,105346127,54.5,2
+2018,Jun,Incredibles 2,"Animation, Action, Adventure",269446690,384579025,48.857142857142854,7
+2018,Jun,Jurassic World: Fallen Kingdom,"Action, Adventure, Sci-Fi",245992650,508970095,49.111111111111114,9
+2018,Jun,Ocean's Eight,"Action, Comedy, Crime",59620170,163463765,56.0,7
+2018,Jun,Solo: A Star Wars Story,"Action, Adventure, Sci-Fi",41358782,142241935,56.57142857142857,7
+2018,Mar,A Wrinkle in Time,"Adventure, Family, Fantasy",10208602,34777853,57.0,1
+2018,Mar,Black Panther,"Action, Adventure, Sci-Fi",169707458,460502054,57.38095238095238,21
+2018,Mar,Pacific Rim: Uprising,"Action, Adventure, Sci-Fi",33227565,134745919,54.8,5
+2018,Mar,Ready Player One,"Action, Adventure, Sci-Fi",42551506,108566028,57.0,3
+2018,Mar,Tomb Raider,"Action, Adventure, Fantasy",8984365,38908010,55.0,1
+2018,May,Avengers: Infinity War,"Action, Adventure, Sci-Fi",283922659,442626760,55.8235294117647,17
+2018,May,Deadpool 2,"Action, Adventure, Comedy",164707352,269383899,55.714285714285715,7
+2018,May,Solo: A Star Wars Story,"Action, Adventure, Sci-Fi",119592692,264574207,64.14285714285714,7
+2018,Nov,Bohemian Rhapsody,"Biography, Drama, Music",69160548,171995120,65.14285714285714,7
+2018,Nov,Creed II,"Drama, Sport",1702204,9398372,55.0,1
+2018,Nov,Fantastic Beasts: The Crimes of Grindelwald,"Adventure, Family, Fantasy",74197238,200978066,58.8,5
+2018,Nov,Halloween,"Crime, Horror, Thriller",1507990,5975432,68.0,1
+2018,Nov,Ralph Breaks the Internet,"Animation, Adventure, Comedy",97636595,362739390,55.44444444444444,9
+2018,Nov,The Grinch,"Animation, Comedy, Family",88376280,206096198,62.857142857142854,7
+2018,Oct,A Star Is Born,"Drama, Music, Romance",16983787,54193932,63.2,5
+2018,Oct,Halloween,"Crime, Horror, Thriller",137885715,321762876,64.38461538461539,13
+2018,Oct,Night School,Comedy,7218740,26728187,67.5,4
+2018,Oct,Venom,"Action, Adventure, Sci-Fi",137853098,352341792,65.77777777777777,9
+2018,Sep,A Simple Favor,"Comedy, Crime, Drama",1245247,6272634,68.0,1
+2018,Sep,Crazy Rich Asians,"Comedy, Drama, Romance",28058186,94531795,61.0,6
+2018,Sep,Night School,Comedy,20788875,68358473,70.0,2
+2018,Sep,Smallfoot,"Animation, Adventure, Comedy",6737165,24254408,67.0,1
+2018,Sep,The House with a Clock in Its Walls,"Comedy, Family, Fantasy",32253225,105172598,63.285714285714285,7
+2018,Sep,The Nun,"Horror, Mystery, Thriller",66876325,139108193,62.57142857142857,7
+2018,Sep,The Predator,"Action, Adventure, Sci-Fi",30500079,121134210,69.0,6
+2019,Apr,Avengers: Endgame,"Action, Adventure, Drama",427099795,475289942,60.2,5
+2019,Apr,Captain Marvel,"Action, Adventure, Sci-Fi",1267909,5470899,63.0,1
+2019,Apr,Dumbo,"Adventure, Family, Fantasy",12056741,41836350,70.25,4
+2019,Apr,Shazam!,"Action, Adventure, Comedy",100648356,319945097,64.71428571428571,14
+2019,Apr,The Curse of la Llorona,"Horror, Mystery, Thriller",32783124,125195878,68.5,6
+2019,Aug,Angel Has Fallen,"Action, Thriller",36353971,163813174,60.111111111111114,9
+2019,Aug,Fast & Furious Presents: Hobbs & Shaw,"Action, Adventure, Thriller",103842790,332393203,53.72727272727273,11
+2019,Aug,Good Boys,"Adventure, Comedy",30307505,148513316,54.142857142857146,7
+2019,Aug,Scary Stories to Tell in the Dark,"Adventure, Horror, Mystery",8781643,39577161,55.0,1
+2019,Aug,The Lion King,"Animation, Adventure, Drama",16656356,45475049,73.33333333333333,3
+2019,Dec,Frozen II,"Animation, Adventure, Comedy",77997833,185365998,54.333333333333336,12
+2019,Dec,Jumanji: The Next Level,"Action, Adventure, Comedy",75811365,149991264,55.42857142857143,7
+2019,Dec,Star Wars: Episode IX - The Rise of Skywalker,"Action, Adventure, Fantasy",390706234,742631464,52.583333333333336,12
+2019,Feb,Alita: Battle Angel,"Action, Adventure, Sci-Fi",43672581,155834554,62.42857142857143,7
+2019,Feb,Glass,"Drama, Sci-Fi, Thriller",12307400,66710602,55.333333333333336,6
+2019,Feb,How to Train Your Dragon: The Hidden World,"Animation, Action, Adventure",65150275,138798426,54.857142857142854,7
+2019,Feb,Isn't It Romantic,"Comedy, Fantasy, Romance",1825164,7406948,63.0,1
+2019,Feb,The Lego Movie 2: The Second Part,"Animation, Action, Adventure",44526024,130008341,61.166666666666664,6
+2019,Feb,The Upside,"Comedy, Drama",639439,3789697,58.0,1
+2019,Jan,Aquaman,"Action, Adventure, Fantasy",71536957,260487247,51.3,10
+2019,Jan,Dragon Ball Super: Broly,"Animation, Action, Adventure",10419442,24136668,48.5,2
+2019,Jan,Glass,"Drama, Sci-Fi, Thriller",79120100,261251985,51.857142857142854,14
+2019,Jan,The Upside,"Comedy, Drama",24941585,117031892,50.4,5
+2019,Jul,Spider-Man: Far from Home,"Action, Adventure, Sci-Fi",298659412,597654075,52.705882352941174,17
+2019,Jul,The Lion King,"Animation, Adventure, Drama",385082142,596970651,49.92307692307692,13
+2019,Jul,Toy Story 4,"Animation, Adventure, Comedy",7960780,18689812,52.0,1
+2019,Jun,Aladdin,"Adventure, Family, Fantasy",53332912,183286350,51.833333333333336,6
+2019,Jun,Men in Black: International,"Action, Adventure, Comedy",30035838,123974218,49.333333333333336,3
+2019,Jun,The Secret Life of Pets 2,"Animation, Adventure, Comedy",81960375,293232800,52.72727272727273,11
+2019,Jun,Toy Story 4,"Animation, Adventure, Comedy",238690140,433196029,52.5,10
+2019,Mar,A Madea Family Funeral,Comedy,9200824,25434405,61.0,1
+2019,Mar,Captain Marvel,"Action, Adventure, Sci-Fi",286477835,430113502,68.07142857142857,14
+2019,Mar,Dumbo,"Adventure, Family, Fantasy",45990748,129484146,70.0,3
+2019,Mar,How to Train Your Dragon: The Hidden World,"Animation, Action, Adventure",30884690,96475154,61.5,6
+2019,Mar,Us,"Horror, Mystery, Thriller",94614440,189641208,68.85714285714286,7
+2019,May,Aladdin,"Adventure, Family, Fantasy",142697174,270076050,50.142857142857146,7
+2019,May,Avengers: Endgame,"Action, Adventure, Drama",298104596,460813510,56.8,15
+2019,May,Godzilla: King of the Monsters,"Action, Adventure, Fantasy",19476894,56752712,55.0,1
+2019,May,John Wick: Chapter 3 - Parabellum,"Action, Crime, Thriller",76638941,190656619,53.285714285714285,7
+2019,May,Pokémon Detective Pikachu,"Action, Adventure, Comedy",20575704,48449057,56.0,1
+2019,Nov,Ford v Ferrari,"Action, Biography, Drama",41989570,120317733,58.0,7
+2019,Nov,Frozen II,"Animation, Adventure, Comedy",269362239,447714266,54.0,9
+2019,Nov,Midway,"Action, Adventure, Drama",26390773,140777863,56.57142857142857,7
+2019,Nov,Terminator: Dark Fate,"Action, Adventure, Sci-Fi",37657130,133430954,55.57142857142857,7
+2019,Oct,Downton Abbey,"Drama, Romance",5608955,23822094,57.0,3
+2019,Oct,Joker,"Crime, Drama, Thriller",238885827,481685697,55.72727272727273,22
+2019,Oct,Maleficent: Mistress of Evil,"Adventure, Family, Fantasy",55387878,210527440,62.166666666666664,6
+2019,Sep,Abominable,"Animation, Adventure, Comedy",20612100,83845476,56.333333333333336,3
+2019,Sep,Angel Has Fallen,"Action, Thriller",11106530,60017867,56.0,5
+2019,Sep,Downton Abbey,"Drama, Romance",45677945,162092638,61.875,8
+2019,Sep,Hustlers,"Comedy, Crime, Drama",25463545,65114404,59.6,5
+2019,Sep,It Chapter Two,"Drama, Fantasy, Horror",139817778,222939124,56.333333333333336,9
